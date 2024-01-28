@@ -3,7 +3,12 @@ var router = express.Router();
 var path = require("path");
 const fs = require("fs");
 
+
 /* GET home page. */
+router.get("/", function (req, res, next) {
+  res.sendFile(path.join(__dirname, "/../public/index.html"));
+});
+
 router.get("/languages", function (req, res, next) {
   res.sendFile(path.join(__dirname, "/../public/languages.json"));
 });
@@ -26,6 +31,10 @@ router.get("/list_of_resource_tafseer", function (req, res, next) {
 
 router.get("/juzs", function (req, res, next) {
   res.sendFile(path.join(__dirname, "/../public/juzs.json"));
+});
+
+router.get("/tafsirs", function (req, res, next) {
+  res.sendFile(path.join(__dirname, "/../public/tafsirs.json"));
 });
 
 router.get("/chapters", function (req, res, next) {
