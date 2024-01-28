@@ -1,0 +1,2056 @@
+{
+  "chapters": [
+    {
+      "bismillah_pre": false,
+      "id": 1,
+      "name_arabic": "\u0627\u0644\u0641\u0627\u062a\u062d\u0629",
+      "name_complex": "Al-F\u0101ti\u0125ah",
+      "name_simple": "Al-Fatihah",
+      "pages": [
+        1,
+        1
+      ],
+      "revelation_order": 5,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Opener"
+      },
+      "verses_count": 7
+    },
+    {
+      "bismillah_pre": true,
+      "id": 2,
+      "name_arabic": "\u0627\u0644\u0628\u0642\u0631\u0629",
+      "name_complex": "Al-Baqarah",
+      "name_simple": "Al-Baqarah",
+      "pages": [
+        2,
+        49
+      ],
+      "revelation_order": 87,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Cow"
+      },
+      "verses_count": 286
+    },
+    {
+      "bismillah_pre": true,
+      "id": 3,
+      "name_arabic": "\u0622\u0644 \u0639\u0645\u0631\u0627\u0646",
+      "name_complex": "\u0100li `Imr\u0101n",
+      "name_simple": "Ali 'Imran",
+      "pages": [
+        50,
+        76
+      ],
+      "revelation_order": 89,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Family of Imran"
+      },
+      "verses_count": 200
+    },
+    {
+      "bismillah_pre": true,
+      "id": 4,
+      "name_arabic": "\u0627\u0644\u0646\u0633\u0627\u0621",
+      "name_complex": "An-Nis\u0101",
+      "name_simple": "An-Nisa",
+      "pages": [
+        77,
+        106
+      ],
+      "revelation_order": 92,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Women"
+      },
+      "verses_count": 176
+    },
+    {
+      "bismillah_pre": true,
+      "id": 5,
+      "name_arabic": "\u0627\u0644\u0645\u0627\u0626\u062f\u0629",
+      "name_complex": "Al-M\u0101'idah",
+      "name_simple": "Al-Ma'idah",
+      "pages": [
+        106,
+        127
+      ],
+      "revelation_order": 112,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Table Spread"
+      },
+      "verses_count": 120
+    },
+    {
+      "bismillah_pre": true,
+      "id": 6,
+      "name_arabic": "\u0627\u0644\u0623\u0646\u0639\u0627\u0645",
+      "name_complex": "Al-'An`\u0101m",
+      "name_simple": "Al-An'am",
+      "pages": [
+        128,
+        150
+      ],
+      "revelation_order": 55,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Cattle"
+      },
+      "verses_count": 165
+    },
+    {
+      "bismillah_pre": true,
+      "id": 7,
+      "name_arabic": "\u0627\u0644\u0623\u0639\u0631\u0627\u0641",
+      "name_complex": "Al-'A`r\u0101f",
+      "name_simple": "Al-A'raf",
+      "pages": [
+        151,
+        176
+      ],
+      "revelation_order": 39,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Heights"
+      },
+      "verses_count": 206
+    },
+    {
+      "bismillah_pre": true,
+      "id": 8,
+      "name_arabic": "\u0627\u0644\u0623\u0646\u0641\u0627\u0644",
+      "name_complex": "Al-'Anf\u0101l",
+      "name_simple": "Al-Anfal",
+      "pages": [
+        177,
+        186
+      ],
+      "revelation_order": 88,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Spoils of War"
+      },
+      "verses_count": 75
+    },
+    {
+      "bismillah_pre": false,
+      "id": 9,
+      "name_arabic": "\u0627\u0644\u062a\u0648\u0628\u0629",
+      "name_complex": "At-Tawbah",
+      "name_simple": "At-Tawbah",
+      "pages": [
+        187,
+        207
+      ],
+      "revelation_order": 113,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Repentance"
+      },
+      "verses_count": 129
+    },
+    {
+      "bismillah_pre": true,
+      "id": 10,
+      "name_arabic": "\u064a\u0648\u0646\u0633",
+      "name_complex": "Y\u016bnus",
+      "name_simple": "Yunus",
+      "pages": [
+        208,
+        221
+      ],
+      "revelation_order": 51,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Jonah"
+      },
+      "verses_count": 109
+    },
+    {
+      "bismillah_pre": true,
+      "id": 11,
+      "name_arabic": "\u0647\u0648\u062f",
+      "name_complex": "H\u016bd",
+      "name_simple": "Hud",
+      "pages": [
+        221,
+        235
+      ],
+      "revelation_order": 52,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Hud"
+      },
+      "verses_count": 123
+    },
+    {
+      "bismillah_pre": true,
+      "id": 12,
+      "name_arabic": "\u064a\u0648\u0633\u0641",
+      "name_complex": "Y\u016bsuf",
+      "name_simple": "Yusuf",
+      "pages": [
+        235,
+        248
+      ],
+      "revelation_order": 53,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Joseph"
+      },
+      "verses_count": 111
+    },
+    {
+      "bismillah_pre": true,
+      "id": 13,
+      "name_arabic": "\u0627\u0644\u0631\u0639\u062f",
+      "name_complex": "Ar-Ra`d",
+      "name_simple": "Ar-Ra'd",
+      "pages": [
+        249,
+        255
+      ],
+      "revelation_order": 96,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Thunder"
+      },
+      "verses_count": 43
+    },
+    {
+      "bismillah_pre": true,
+      "id": 14,
+      "name_arabic": "\u0627\u0628\u0631\u0627\u0647\u064a\u0645",
+      "name_complex": "Ibr\u0101h\u012bm",
+      "name_simple": "Ibrahim",
+      "pages": [
+        255,
+        261
+      ],
+      "revelation_order": 72,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Abraham"
+      },
+      "verses_count": 52
+    },
+    {
+      "bismillah_pre": true,
+      "id": 15,
+      "name_arabic": "\u0627\u0644\u062d\u062c\u0631",
+      "name_complex": "Al-\u0124ijr",
+      "name_simple": "Al-Hijr",
+      "pages": [
+        262,
+        267
+      ],
+      "revelation_order": 54,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Rocky Tract"
+      },
+      "verses_count": 99
+    },
+    {
+      "bismillah_pre": true,
+      "id": 16,
+      "name_arabic": "\u0627\u0644\u0646\u062d\u0644",
+      "name_complex": "An-Na\u0125l",
+      "name_simple": "An-Nahl",
+      "pages": [
+        267,
+        281
+      ],
+      "revelation_order": 70,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Bee"
+      },
+      "verses_count": 128
+    },
+    {
+      "bismillah_pre": true,
+      "id": 17,
+      "name_arabic": "\u0627\u0644\u0625\u0633\u0631\u0627\u0621",
+      "name_complex": "Al-'Isr\u0101",
+      "name_simple": "Al-Isra",
+      "pages": [
+        282,
+        293
+      ],
+      "revelation_order": 50,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Night Journey"
+      },
+      "verses_count": 111
+    },
+    {
+      "bismillah_pre": true,
+      "id": 18,
+      "name_arabic": "\u0627\u0644\u0643\u0647\u0641",
+      "name_complex": "Al-Kahf",
+      "name_simple": "Al-Kahf",
+      "pages": [
+        293,
+        304
+      ],
+      "revelation_order": 69,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Cave"
+      },
+      "verses_count": 110
+    },
+    {
+      "bismillah_pre": true,
+      "id": 19,
+      "name_arabic": "\u0645\u0631\u064a\u0645",
+      "name_complex": "Maryam",
+      "name_simple": "Maryam",
+      "pages": [
+        305,
+        312
+      ],
+      "revelation_order": 44,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Mary"
+      },
+      "verses_count": 98
+    },
+    {
+      "bismillah_pre": true,
+      "id": 20,
+      "name_arabic": "\u0637\u0647",
+      "name_complex": "\u0162\u0101h\u0101",
+      "name_simple": "Taha",
+      "pages": [
+        312,
+        321
+      ],
+      "revelation_order": 45,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Ta-Ha"
+      },
+      "verses_count": 135
+    },
+    {
+      "bismillah_pre": true,
+      "id": 21,
+      "name_arabic": "\u0627\u0644\u0623\u0646\u0628\u064a\u0627\u0621",
+      "name_complex": "Al-'Anby\u0101",
+      "name_simple": "Al-Anbya",
+      "pages": [
+        322,
+        331
+      ],
+      "revelation_order": 73,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Prophets"
+      },
+      "verses_count": 112
+    },
+    {
+      "bismillah_pre": true,
+      "id": 22,
+      "name_arabic": "\u0627\u0644\u062d\u062c",
+      "name_complex": "Al-\u0124ajj",
+      "name_simple": "Al-Hajj",
+      "pages": [
+        332,
+        341
+      ],
+      "revelation_order": 103,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Pilgrimage"
+      },
+      "verses_count": 78
+    },
+    {
+      "bismillah_pre": true,
+      "id": 23,
+      "name_arabic": "\u0627\u0644\u0645\u0624\u0645\u0646\u0648\u0646",
+      "name_complex": "Al-Mu'min\u016bn",
+      "name_simple": "Al-Mu'minun",
+      "pages": [
+        342,
+        349
+      ],
+      "revelation_order": 74,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Believers"
+      },
+      "verses_count": 118
+    },
+    {
+      "bismillah_pre": true,
+      "id": 24,
+      "name_arabic": "\u0627\u0644\u0646\u0648\u0631",
+      "name_complex": "An-N\u016br",
+      "name_simple": "An-Nur",
+      "pages": [
+        350,
+        359
+      ],
+      "revelation_order": 102,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Light"
+      },
+      "verses_count": 64
+    },
+    {
+      "bismillah_pre": true,
+      "id": 25,
+      "name_arabic": "\u0627\u0644\u0641\u0631\u0642\u0627\u0646",
+      "name_complex": "Al-Furq\u0101n",
+      "name_simple": "Al-Furqan",
+      "pages": [
+        359,
+        366
+      ],
+      "revelation_order": 42,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Criterion"
+      },
+      "verses_count": 77
+    },
+    {
+      "bismillah_pre": true,
+      "id": 26,
+      "name_arabic": "\u0627\u0644\u0634\u0639\u0631\u0627\u0621",
+      "name_complex": "Ash-Shu`ar\u0101",
+      "name_simple": "Ash-Shu'ara",
+      "pages": [
+        367,
+        376
+      ],
+      "revelation_order": 47,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Poets"
+      },
+      "verses_count": 227
+    },
+    {
+      "bismillah_pre": true,
+      "id": 27,
+      "name_arabic": "\u0627\u0644\u0646\u0645\u0644",
+      "name_complex": "An-Naml",
+      "name_simple": "An-Naml",
+      "pages": [
+        377,
+        385
+      ],
+      "revelation_order": 48,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Ant"
+      },
+      "verses_count": 93
+    },
+    {
+      "bismillah_pre": true,
+      "id": 28,
+      "name_arabic": "\u0627\u0644\u0642\u0635\u0635",
+      "name_complex": "Al-Qa\u015fa\u015f",
+      "name_simple": "Al-Qasas",
+      "pages": [
+        385,
+        396
+      ],
+      "revelation_order": 49,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Stories"
+      },
+      "verses_count": 88
+    },
+    {
+      "bismillah_pre": true,
+      "id": 29,
+      "name_arabic": "\u0627\u0644\u0639\u0646\u0643\u0628\u0648\u062a",
+      "name_complex": "Al-`Ankab\u016bt",
+      "name_simple": "Al-'Ankabut",
+      "pages": [
+        396,
+        404
+      ],
+      "revelation_order": 85,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Spider"
+      },
+      "verses_count": 69
+    },
+    {
+      "bismillah_pre": true,
+      "id": 30,
+      "name_arabic": "\u0627\u0644\u0631\u0648\u0645",
+      "name_complex": "Ar-R\u016bm",
+      "name_simple": "Ar-Rum",
+      "pages": [
+        404,
+        410
+      ],
+      "revelation_order": 84,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Romans"
+      },
+      "verses_count": 60
+    },
+    {
+      "bismillah_pre": true,
+      "id": 31,
+      "name_arabic": "\u0644\u0642\u0645\u0627\u0646",
+      "name_complex": "Luqm\u0101n",
+      "name_simple": "Luqman",
+      "pages": [
+        411,
+        414
+      ],
+      "revelation_order": 57,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Luqman"
+      },
+      "verses_count": 34
+    },
+    {
+      "bismillah_pre": true,
+      "id": 32,
+      "name_arabic": "\u0627\u0644\u0633\u062c\u062f\u0629",
+      "name_complex": "As-Sajdah",
+      "name_simple": "As-Sajdah",
+      "pages": [
+        415,
+        417
+      ],
+      "revelation_order": 75,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Prostration"
+      },
+      "verses_count": 30
+    },
+    {
+      "bismillah_pre": true,
+      "id": 33,
+      "name_arabic": "\u0627\u0644\u0623\u062d\u0632\u0627\u0628",
+      "name_complex": "Al-'A\u0125z\u0101b",
+      "name_simple": "Al-Ahzab",
+      "pages": [
+        418,
+        427
+      ],
+      "revelation_order": 90,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Combined Forces"
+      },
+      "verses_count": 73
+    },
+    {
+      "bismillah_pre": true,
+      "id": 34,
+      "name_arabic": "\u0633\u0628\u0625",
+      "name_complex": "Saba",
+      "name_simple": "Saba",
+      "pages": [
+        428,
+        434
+      ],
+      "revelation_order": 58,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Sheba"
+      },
+      "verses_count": 54
+    },
+    {
+      "bismillah_pre": true,
+      "id": 35,
+      "name_arabic": "\u0641\u0627\u0637\u0631",
+      "name_complex": "F\u0101\u0163ir",
+      "name_simple": "Fatir",
+      "pages": [
+        434,
+        440
+      ],
+      "revelation_order": 43,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Originator"
+      },
+      "verses_count": 45
+    },
+    {
+      "bismillah_pre": true,
+      "id": 36,
+      "name_arabic": "\u064a\u0633",
+      "name_complex": "Y\u0101-S\u012bn",
+      "name_simple": "Ya-Sin",
+      "pages": [
+        440,
+        445
+      ],
+      "revelation_order": 41,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Ya Sin"
+      },
+      "verses_count": 83
+    },
+    {
+      "bismillah_pre": true,
+      "id": 37,
+      "name_arabic": "\u0627\u0644\u0635\u0627\u0641\u0627\u062a",
+      "name_complex": "A\u015f-\u015e\u0101ff\u0101t",
+      "name_simple": "As-Saffat",
+      "pages": [
+        446,
+        452
+      ],
+      "revelation_order": 56,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Those who set the Ranks"
+      },
+      "verses_count": 182
+    },
+    {
+      "bismillah_pre": true,
+      "id": 38,
+      "name_arabic": "\u0635",
+      "name_complex": "\u015e\u0101d",
+      "name_simple": "Sad",
+      "pages": [
+        453,
+        458
+      ],
+      "revelation_order": 38,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Letter \"Saad\""
+      },
+      "verses_count": 88
+    },
+    {
+      "bismillah_pre": true,
+      "id": 39,
+      "name_arabic": "\u0627\u0644\u0632\u0645\u0631",
+      "name_complex": "Az-Zumar",
+      "name_simple": "Az-Zumar",
+      "pages": [
+        458,
+        467
+      ],
+      "revelation_order": 59,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Troops"
+      },
+      "verses_count": 75
+    },
+    {
+      "bismillah_pre": true,
+      "id": 40,
+      "name_arabic": "\u063a\u0627\u0641\u0631",
+      "name_complex": "Gh\u0101fir",
+      "name_simple": "Ghafir",
+      "pages": [
+        467,
+        476
+      ],
+      "revelation_order": 60,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Forgiver"
+      },
+      "verses_count": 85
+    },
+    {
+      "bismillah_pre": true,
+      "id": 41,
+      "name_arabic": "\u0641\u0635\u0644\u062a",
+      "name_complex": "Fu\u015f\u015filat",
+      "name_simple": "Fussilat",
+      "pages": [
+        477,
+        482
+      ],
+      "revelation_order": 61,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Explained in Detail"
+      },
+      "verses_count": 54
+    },
+    {
+      "bismillah_pre": true,
+      "id": 42,
+      "name_arabic": "\u0627\u0644\u0634\u0648\u0631\u0649",
+      "name_complex": "Ash-Sh\u016bra\u00e1",
+      "name_simple": "Ash-Shuraa",
+      "pages": [
+        483,
+        489
+      ],
+      "revelation_order": 62,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Consultation"
+      },
+      "verses_count": 53
+    },
+    {
+      "bismillah_pre": true,
+      "id": 43,
+      "name_arabic": "\u0627\u0644\u0632\u062e\u0631\u0641",
+      "name_complex": "Az-Zukhruf",
+      "name_simple": "Az-Zukhruf",
+      "pages": [
+        489,
+        495
+      ],
+      "revelation_order": 63,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Ornaments of Gold"
+      },
+      "verses_count": 89
+    },
+    {
+      "bismillah_pre": true,
+      "id": 44,
+      "name_arabic": "\u0627\u0644\u062f\u062e\u0627\u0646",
+      "name_complex": "Ad-Dukh\u0101n",
+      "name_simple": "Ad-Dukhan",
+      "pages": [
+        496,
+        498
+      ],
+      "revelation_order": 64,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Smoke"
+      },
+      "verses_count": 59
+    },
+    {
+      "bismillah_pre": true,
+      "id": 45,
+      "name_arabic": "\u0627\u0644\u062c\u0627\u062b\u064a\u0629",
+      "name_complex": "Al-J\u0101thiyah",
+      "name_simple": "Al-Jathiyah",
+      "pages": [
+        499,
+        502
+      ],
+      "revelation_order": 65,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Crouching"
+      },
+      "verses_count": 37
+    },
+    {
+      "bismillah_pre": true,
+      "id": 46,
+      "name_arabic": "\u0627\u0644\u0623\u062d\u0642\u0627\u0641",
+      "name_complex": "Al-'A\u0125q\u0101f",
+      "name_simple": "Al-Ahqaf",
+      "pages": [
+        502,
+        506
+      ],
+      "revelation_order": 66,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Wind-Curved Sandhills"
+      },
+      "verses_count": 35
+    },
+    {
+      "bismillah_pre": true,
+      "id": 47,
+      "name_arabic": "\u0645\u062d\u0645\u062f",
+      "name_complex": "Mu\u0125ammad",
+      "name_simple": "Muhammad",
+      "pages": [
+        507,
+        510
+      ],
+      "revelation_order": 95,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Muhammad"
+      },
+      "verses_count": 38
+    },
+    {
+      "bismillah_pre": true,
+      "id": 48,
+      "name_arabic": "\u0627\u0644\u0641\u062a\u062d",
+      "name_complex": "Al-Fat\u0125",
+      "name_simple": "Al-Fath",
+      "pages": [
+        511,
+        515
+      ],
+      "revelation_order": 111,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Victory"
+      },
+      "verses_count": 29
+    },
+    {
+      "bismillah_pre": true,
+      "id": 49,
+      "name_arabic": "\u0627\u0644\u062d\u062c\u0631\u0627\u062a",
+      "name_complex": "Al-\u0124ujur\u0101t",
+      "name_simple": "Al-Hujurat",
+      "pages": [
+        515,
+        517
+      ],
+      "revelation_order": 106,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Rooms"
+      },
+      "verses_count": 18
+    },
+    {
+      "bismillah_pre": true,
+      "id": 50,
+      "name_arabic": "\u0642",
+      "name_complex": "Q\u0101f",
+      "name_simple": "Qaf",
+      "pages": [
+        518,
+        520
+      ],
+      "revelation_order": 34,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Letter \"Qaf\""
+      },
+      "verses_count": 45
+    },
+    {
+      "bismillah_pre": true,
+      "id": 51,
+      "name_arabic": "\u0627\u0644\u0630\u0627\u0631\u064a\u0627\u062a",
+      "name_complex": "Adh-Dh\u0101riy\u0101t",
+      "name_simple": "Adh-Dhariyat",
+      "pages": [
+        520,
+        523
+      ],
+      "revelation_order": 67,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Winnowing Winds"
+      },
+      "verses_count": 60
+    },
+    {
+      "bismillah_pre": true,
+      "id": 52,
+      "name_arabic": "\u0627\u0644\u0637\u0648\u0631",
+      "name_complex": "A\u0163-\u0162\u016br",
+      "name_simple": "At-Tur",
+      "pages": [
+        523,
+        525
+      ],
+      "revelation_order": 76,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Mount"
+      },
+      "verses_count": 49
+    },
+    {
+      "bismillah_pre": true,
+      "id": 53,
+      "name_arabic": "\u0627\u0644\u0646\u062c\u0645",
+      "name_complex": "An-Najm",
+      "name_simple": "An-Najm",
+      "pages": [
+        526,
+        528
+      ],
+      "revelation_order": 23,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Star"
+      },
+      "verses_count": 62
+    },
+    {
+      "bismillah_pre": true,
+      "id": 54,
+      "name_arabic": "\u0627\u0644\u0642\u0645\u0631",
+      "name_complex": "Al-Qamar",
+      "name_simple": "Al-Qamar",
+      "pages": [
+        528,
+        531
+      ],
+      "revelation_order": 37,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Moon"
+      },
+      "verses_count": 55
+    },
+    {
+      "bismillah_pre": true,
+      "id": 55,
+      "name_arabic": "\u0627\u0644\u0631\u062d\u0645\u0646",
+      "name_complex": "Ar-Ra\u0125m\u0101n",
+      "name_simple": "Ar-Rahman",
+      "pages": [
+        531,
+        534
+      ],
+      "revelation_order": 97,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Beneficent"
+      },
+      "verses_count": 78
+    },
+    {
+      "bismillah_pre": true,
+      "id": 56,
+      "name_arabic": "\u0627\u0644\u0648\u0627\u0642\u0639\u0629",
+      "name_complex": "Al-W\u0101qi`ah",
+      "name_simple": "Al-Waqi'ah",
+      "pages": [
+        534,
+        537
+      ],
+      "revelation_order": 46,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Inevitable"
+      },
+      "verses_count": 96
+    },
+    {
+      "bismillah_pre": true,
+      "id": 57,
+      "name_arabic": "\u0627\u0644\u062d\u062f\u064a\u062f",
+      "name_complex": "Al-\u0124ad\u012bd",
+      "name_simple": "Al-Hadid",
+      "pages": [
+        537,
+        541
+      ],
+      "revelation_order": 94,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Iron"
+      },
+      "verses_count": 29
+    },
+    {
+      "bismillah_pre": true,
+      "id": 58,
+      "name_arabic": "\u0627\u0644\u0645\u062c\u0627\u062f\u0644\u0629",
+      "name_complex": "Al-Muj\u0101dila",
+      "name_simple": "Al-Mujadila",
+      "pages": [
+        542,
+        545
+      ],
+      "revelation_order": 105,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Pleading Woman"
+      },
+      "verses_count": 22
+    },
+    {
+      "bismillah_pre": true,
+      "id": 59,
+      "name_arabic": "\u0627\u0644\u062d\u0634\u0631",
+      "name_complex": "Al-\u0124ashr",
+      "name_simple": "Al-Hashr",
+      "pages": [
+        545,
+        548
+      ],
+      "revelation_order": 101,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Exile"
+      },
+      "verses_count": 24
+    },
+    {
+      "bismillah_pre": true,
+      "id": 60,
+      "name_arabic": "\u0627\u0644\u0645\u0645\u062a\u062d\u0646\u0629",
+      "name_complex": "Al-Mumta\u0125anah",
+      "name_simple": "Al-Mumtahanah",
+      "pages": [
+        549,
+        551
+      ],
+      "revelation_order": 91,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "She that is to be examined"
+      },
+      "verses_count": 13
+    },
+    {
+      "bismillah_pre": true,
+      "id": 61,
+      "name_arabic": "\u0627\u0644\u0635\u0641",
+      "name_complex": "A\u015f-\u015eaf",
+      "name_simple": "As-Saf",
+      "pages": [
+        551,
+        552
+      ],
+      "revelation_order": 109,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Ranks"
+      },
+      "verses_count": 14
+    },
+    {
+      "bismillah_pre": true,
+      "id": 62,
+      "name_arabic": "\u0627\u0644\u062c\u0645\u0639\u0629",
+      "name_complex": "Al-Jumu`ah",
+      "name_simple": "Al-Jumu'ah",
+      "pages": [
+        553,
+        554
+      ],
+      "revelation_order": 110,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Congregation, Friday"
+      },
+      "verses_count": 11
+    },
+    {
+      "bismillah_pre": true,
+      "id": 63,
+      "name_arabic": "\u0627\u0644\u0645\u0646\u0627\u0641\u0642\u0648\u0646",
+      "name_complex": "Al-Mun\u0101fiq\u016bn",
+      "name_simple": "Al-Munafiqun",
+      "pages": [
+        554,
+        555
+      ],
+      "revelation_order": 104,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Hypocrites"
+      },
+      "verses_count": 11
+    },
+    {
+      "bismillah_pre": true,
+      "id": 64,
+      "name_arabic": "\u0627\u0644\u062a\u063a\u0627\u0628\u0646",
+      "name_complex": "At-Tagh\u0101bun",
+      "name_simple": "At-Taghabun",
+      "pages": [
+        556,
+        557
+      ],
+      "revelation_order": 108,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Mutual Disillusion"
+      },
+      "verses_count": 18
+    },
+    {
+      "bismillah_pre": true,
+      "id": 65,
+      "name_arabic": "\u0627\u0644\u0637\u0644\u0627\u0642",
+      "name_complex": "A\u0163-\u0162al\u0101q",
+      "name_simple": "At-Talaq",
+      "pages": [
+        558,
+        559
+      ],
+      "revelation_order": 99,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Divorce"
+      },
+      "verses_count": 12
+    },
+    {
+      "bismillah_pre": true,
+      "id": 66,
+      "name_arabic": "\u0627\u0644\u062a\u062d\u0631\u064a\u0645",
+      "name_complex": "At-Ta\u0125r\u012bm",
+      "name_simple": "At-Tahrim",
+      "pages": [
+        560,
+        561
+      ],
+      "revelation_order": 107,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Prohibition"
+      },
+      "verses_count": 12
+    },
+    {
+      "bismillah_pre": true,
+      "id": 67,
+      "name_arabic": "\u0627\u0644\u0645\u0644\u0643",
+      "name_complex": "Al-Mulk",
+      "name_simple": "Al-Mulk",
+      "pages": [
+        562,
+        564
+      ],
+      "revelation_order": 77,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Sovereignty"
+      },
+      "verses_count": 30
+    },
+    {
+      "bismillah_pre": true,
+      "id": 68,
+      "name_arabic": "\u0627\u0644\u0642\u0644\u0645",
+      "name_complex": "Al-Qalam",
+      "name_simple": "Al-Qalam",
+      "pages": [
+        564,
+        566
+      ],
+      "revelation_order": 2,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Pen"
+      },
+      "verses_count": 52
+    },
+    {
+      "bismillah_pre": true,
+      "id": 69,
+      "name_arabic": "\u0627\u0644\u062d\u0627\u0642\u0629",
+      "name_complex": "Al-\u0124\u0101qqah",
+      "name_simple": "Al-Haqqah",
+      "pages": [
+        566,
+        568
+      ],
+      "revelation_order": 78,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Reality"
+      },
+      "verses_count": 52
+    },
+    {
+      "bismillah_pre": true,
+      "id": 70,
+      "name_arabic": "\u0627\u0644\u0645\u0639\u0627\u0631\u062c",
+      "name_complex": "Al-Ma`\u0101rij",
+      "name_simple": "Al-Ma'arij",
+      "pages": [
+        568,
+        570
+      ],
+      "revelation_order": 79,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Ascending Stairways"
+      },
+      "verses_count": 44
+    },
+    {
+      "bismillah_pre": true,
+      "id": 71,
+      "name_arabic": "\u0646\u0648\u062d",
+      "name_complex": "N\u016b\u0125",
+      "name_simple": "Nuh",
+      "pages": [
+        570,
+        571
+      ],
+      "revelation_order": 71,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Noah"
+      },
+      "verses_count": 28
+    },
+    {
+      "bismillah_pre": true,
+      "id": 72,
+      "name_arabic": "\u0627\u0644\u062c\u0646",
+      "name_complex": "Al-Jinn",
+      "name_simple": "Al-Jinn",
+      "pages": [
+        572,
+        573
+      ],
+      "revelation_order": 40,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Jinn"
+      },
+      "verses_count": 28
+    },
+    {
+      "bismillah_pre": true,
+      "id": 73,
+      "name_arabic": "\u0627\u0644\u0645\u0632\u0645\u0644",
+      "name_complex": "Al-Muzzammil",
+      "name_simple": "Al-Muzzammil",
+      "pages": [
+        574,
+        575
+      ],
+      "revelation_order": 3,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Enshrouded One"
+      },
+      "verses_count": 20
+    },
+    {
+      "bismillah_pre": true,
+      "id": 74,
+      "name_arabic": "\u0627\u0644\u0645\u062f\u062b\u0631",
+      "name_complex": "Al-Muddaththir",
+      "name_simple": "Al-Muddaththir",
+      "pages": [
+        575,
+        577
+      ],
+      "revelation_order": 4,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Cloaked One"
+      },
+      "verses_count": 56
+    },
+    {
+      "bismillah_pre": true,
+      "id": 75,
+      "name_arabic": "\u0627\u0644\u0642\u064a\u0627\u0645\u0629",
+      "name_complex": "Al-Qiy\u0101mah",
+      "name_simple": "Al-Qiyamah",
+      "pages": [
+        577,
+        578
+      ],
+      "revelation_order": 31,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Resurrection"
+      },
+      "verses_count": 40
+    },
+    {
+      "bismillah_pre": true,
+      "id": 76,
+      "name_arabic": "\u0627\u0644\u0627\u0646\u0633\u0627\u0646",
+      "name_complex": "Al-'Ins\u0101n",
+      "name_simple": "Al-Insan",
+      "pages": [
+        578,
+        580
+      ],
+      "revelation_order": 98,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Man"
+      },
+      "verses_count": 31
+    },
+    {
+      "bismillah_pre": true,
+      "id": 77,
+      "name_arabic": "\u0627\u0644\u0645\u0631\u0633\u0644\u0627\u062a",
+      "name_complex": "Al-Mursal\u0101t",
+      "name_simple": "Al-Mursalat",
+      "pages": [
+        580,
+        581
+      ],
+      "revelation_order": 33,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Emissaries"
+      },
+      "verses_count": 50
+    },
+    {
+      "bismillah_pre": true,
+      "id": 78,
+      "name_arabic": "\u0627\u0644\u0646\u0628\u0625",
+      "name_complex": "An-Naba",
+      "name_simple": "An-Naba",
+      "pages": [
+        582,
+        583
+      ],
+      "revelation_order": 80,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Tidings"
+      },
+      "verses_count": 40
+    },
+    {
+      "bismillah_pre": true,
+      "id": 79,
+      "name_arabic": "\u0627\u0644\u0646\u0627\u0632\u0639\u0627\u062a",
+      "name_complex": "An-N\u0101zi`\u0101t",
+      "name_simple": "An-Nazi'at",
+      "pages": [
+        583,
+        584
+      ],
+      "revelation_order": 81,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Those who drag forth"
+      },
+      "verses_count": 46
+    },
+    {
+      "bismillah_pre": true,
+      "id": 80,
+      "name_arabic": "\u0639\u0628\u0633",
+      "name_complex": "`Abasa",
+      "name_simple": "'Abasa",
+      "pages": [
+        585,
+        585
+      ],
+      "revelation_order": 24,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "He Frowned"
+      },
+      "verses_count": 42
+    },
+    {
+      "bismillah_pre": true,
+      "id": 81,
+      "name_arabic": "\u0627\u0644\u062a\u0643\u0648\u064a\u0631",
+      "name_complex": "At-Takw\u012br",
+      "name_simple": "At-Takwir",
+      "pages": [
+        586,
+        586
+      ],
+      "revelation_order": 7,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Overthrowing"
+      },
+      "verses_count": 29
+    },
+    {
+      "bismillah_pre": true,
+      "id": 82,
+      "name_arabic": "\u0627\u0644\u0625\u0646\u0641\u0637\u0627\u0631",
+      "name_complex": "Al-'Infi\u0163\u0101r",
+      "name_simple": "Al-Infitar",
+      "pages": [
+        587,
+        587
+      ],
+      "revelation_order": 82,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Cleaving"
+      },
+      "verses_count": 19
+    },
+    {
+      "bismillah_pre": true,
+      "id": 83,
+      "name_arabic": "\u0627\u0644\u0645\u0637\u0641\u0641\u064a\u0646",
+      "name_complex": "Al-Mu\u0163affif\u012bn",
+      "name_simple": "Al-Mutaffifin",
+      "pages": [
+        587,
+        589
+      ],
+      "revelation_order": 86,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Defrauding"
+      },
+      "verses_count": 36
+    },
+    {
+      "bismillah_pre": true,
+      "id": 84,
+      "name_arabic": "\u0627\u0644\u0625\u0646\u0634\u0642\u0627\u0642",
+      "name_complex": "Al-'Inshiq\u0101q",
+      "name_simple": "Al-Inshiqaq",
+      "pages": [
+        589,
+        589
+      ],
+      "revelation_order": 83,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Sundering"
+      },
+      "verses_count": 25
+    },
+    {
+      "bismillah_pre": true,
+      "id": 85,
+      "name_arabic": "\u0627\u0644\u0628\u0631\u0648\u062c",
+      "name_complex": "Al-Bur\u016bj",
+      "name_simple": "Al-Buruj",
+      "pages": [
+        590,
+        590
+      ],
+      "revelation_order": 27,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Mansions of the Stars"
+      },
+      "verses_count": 22
+    },
+    {
+      "bismillah_pre": true,
+      "id": 86,
+      "name_arabic": "\u0627\u0644\u0637\u0627\u0631\u0642",
+      "name_complex": "A\u0163-\u0162\u0101riq",
+      "name_simple": "At-Tariq",
+      "pages": [
+        591,
+        591
+      ],
+      "revelation_order": 36,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Nightcommer"
+      },
+      "verses_count": 17
+    },
+    {
+      "bismillah_pre": true,
+      "id": 87,
+      "name_arabic": "\u0627\u0644\u0623\u0639\u0644\u0649",
+      "name_complex": "Al-'A`l\u00e1",
+      "name_simple": "Al-A'la",
+      "pages": [
+        591,
+        592
+      ],
+      "revelation_order": 8,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Most High"
+      },
+      "verses_count": 19
+    },
+    {
+      "bismillah_pre": true,
+      "id": 88,
+      "name_arabic": "\u0627\u0644\u063a\u0627\u0634\u064a\u0629",
+      "name_complex": "Al-Gh\u0101shiyah",
+      "name_simple": "Al-Ghashiyah",
+      "pages": [
+        592,
+        592
+      ],
+      "revelation_order": 68,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Overwhelming"
+      },
+      "verses_count": 26
+    },
+    {
+      "bismillah_pre": true,
+      "id": 89,
+      "name_arabic": "\u0627\u0644\u0641\u062c\u0631",
+      "name_complex": "Al-Fajr",
+      "name_simple": "Al-Fajr",
+      "pages": [
+        593,
+        594
+      ],
+      "revelation_order": 10,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Dawn"
+      },
+      "verses_count": 30
+    },
+    {
+      "bismillah_pre": true,
+      "id": 90,
+      "name_arabic": "\u0627\u0644\u0628\u0644\u062f",
+      "name_complex": "Al-Balad",
+      "name_simple": "Al-Balad",
+      "pages": [
+        594,
+        594
+      ],
+      "revelation_order": 35,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The City"
+      },
+      "verses_count": 20
+    },
+    {
+      "bismillah_pre": true,
+      "id": 91,
+      "name_arabic": "\u0627\u0644\u0634\u0645\u0633",
+      "name_complex": "Ash-Shams",
+      "name_simple": "Ash-Shams",
+      "pages": [
+        595,
+        595
+      ],
+      "revelation_order": 26,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Sun"
+      },
+      "verses_count": 15
+    },
+    {
+      "bismillah_pre": true,
+      "id": 92,
+      "name_arabic": "\u0627\u0644\u0644\u064a\u0644",
+      "name_complex": "Al-Layl",
+      "name_simple": "Al-Layl",
+      "pages": [
+        595,
+        596
+      ],
+      "revelation_order": 9,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Night"
+      },
+      "verses_count": 21
+    },
+    {
+      "bismillah_pre": true,
+      "id": 93,
+      "name_arabic": "\u0627\u0644\u0636\u062d\u0649",
+      "name_complex": "A\u0111-\u0110u\u0125a\u00e1",
+      "name_simple": "Ad-Duhaa",
+      "pages": [
+        596,
+        596
+      ],
+      "revelation_order": 11,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Morning Hours"
+      },
+      "verses_count": 11
+    },
+    {
+      "bismillah_pre": true,
+      "id": 94,
+      "name_arabic": "\u0627\u0644\u0634\u0631\u062d",
+      "name_complex": "Ash-Shar\u0125",
+      "name_simple": "Ash-Sharh",
+      "pages": [
+        596,
+        596
+      ],
+      "revelation_order": 12,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Relief"
+      },
+      "verses_count": 8
+    },
+    {
+      "bismillah_pre": true,
+      "id": 95,
+      "name_arabic": "\u0627\u0644\u062a\u064a\u0646",
+      "name_complex": "At-T\u012bn",
+      "name_simple": "At-Tin",
+      "pages": [
+        597,
+        597
+      ],
+      "revelation_order": 28,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Fig"
+      },
+      "verses_count": 8
+    },
+    {
+      "bismillah_pre": true,
+      "id": 96,
+      "name_arabic": "\u0627\u0644\u0639\u0644\u0642",
+      "name_complex": "Al-`Alaq",
+      "name_simple": "Al-'Alaq",
+      "pages": [
+        597,
+        597
+      ],
+      "revelation_order": 1,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Clot"
+      },
+      "verses_count": 19
+    },
+    {
+      "bismillah_pre": true,
+      "id": 97,
+      "name_arabic": "\u0627\u0644\u0642\u062f\u0631",
+      "name_complex": "Al-Qadr",
+      "name_simple": "Al-Qadr",
+      "pages": [
+        598,
+        598
+      ],
+      "revelation_order": 25,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Power"
+      },
+      "verses_count": 5
+    },
+    {
+      "bismillah_pre": true,
+      "id": 98,
+      "name_arabic": "\u0627\u0644\u0628\u064a\u0646\u0629",
+      "name_complex": "Al-Bayyinah",
+      "name_simple": "Al-Bayyinah",
+      "pages": [
+        598,
+        599
+      ],
+      "revelation_order": 100,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Clear Proof"
+      },
+      "verses_count": 8
+    },
+    {
+      "bismillah_pre": true,
+      "id": 99,
+      "name_arabic": "\u0627\u0644\u0632\u0644\u0632\u0644\u0629",
+      "name_complex": "Az-Zalzalah",
+      "name_simple": "Az-Zalzalah",
+      "pages": [
+        599,
+        599
+      ],
+      "revelation_order": 93,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Earthquake"
+      },
+      "verses_count": 8
+    },
+    {
+      "bismillah_pre": true,
+      "id": 100,
+      "name_arabic": "\u0627\u0644\u0639\u0627\u062f\u064a\u0627\u062a",
+      "name_complex": "Al-`\u0100diy\u0101t",
+      "name_simple": "Al-'Adiyat",
+      "pages": [
+        599,
+        600
+      ],
+      "revelation_order": 14,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Courser"
+      },
+      "verses_count": 11
+    },
+    {
+      "bismillah_pre": true,
+      "id": 101,
+      "name_arabic": "\u0627\u0644\u0642\u0627\u0631\u0639\u0629",
+      "name_complex": "Al-Q\u0101ri`ah",
+      "name_simple": "Al-Qari'ah",
+      "pages": [
+        600,
+        600
+      ],
+      "revelation_order": 30,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Calamity"
+      },
+      "verses_count": 11
+    },
+    {
+      "bismillah_pre": true,
+      "id": 102,
+      "name_arabic": "\u0627\u0644\u062a\u0643\u0627\u062b\u0631",
+      "name_complex": "At-Tak\u0101thur",
+      "name_simple": "At-Takathur",
+      "pages": [
+        600,
+        600
+      ],
+      "revelation_order": 16,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Rivalry in world increase"
+      },
+      "verses_count": 8
+    },
+    {
+      "bismillah_pre": true,
+      "id": 103,
+      "name_arabic": "\u0627\u0644\u0639\u0635\u0631",
+      "name_complex": "Al-`A\u015fr",
+      "name_simple": "Al-'Asr",
+      "pages": [
+        601,
+        601
+      ],
+      "revelation_order": 13,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Declining Day"
+      },
+      "verses_count": 3
+    },
+    {
+      "bismillah_pre": true,
+      "id": 104,
+      "name_arabic": "\u0627\u0644\u0647\u0645\u0632\u0629",
+      "name_complex": "Al-Humazah",
+      "name_simple": "Al-Humazah",
+      "pages": [
+        601,
+        601
+      ],
+      "revelation_order": 32,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Traducer"
+      },
+      "verses_count": 9
+    },
+    {
+      "bismillah_pre": true,
+      "id": 105,
+      "name_arabic": "\u0627\u0644\u0641\u064a\u0644",
+      "name_complex": "Al-F\u012bl",
+      "name_simple": "Al-Fil",
+      "pages": [
+        601,
+        601
+      ],
+      "revelation_order": 19,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Elephant"
+      },
+      "verses_count": 5
+    },
+    {
+      "bismillah_pre": true,
+      "id": 106,
+      "name_arabic": "\u0642\u0631\u064a\u0634",
+      "name_complex": "Quraysh",
+      "name_simple": "Quraysh",
+      "pages": [
+        602,
+        602
+      ],
+      "revelation_order": 29,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Quraysh"
+      },
+      "verses_count": 4
+    },
+    {
+      "bismillah_pre": true,
+      "id": 107,
+      "name_arabic": "\u0627\u0644\u0645\u0627\u0639\u0648\u0646",
+      "name_complex": "Al-M\u0101`\u016bn",
+      "name_simple": "Al-Ma'un",
+      "pages": [
+        602,
+        602
+      ],
+      "revelation_order": 17,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Small kindnesses"
+      },
+      "verses_count": 7
+    },
+    {
+      "bismillah_pre": true,
+      "id": 108,
+      "name_arabic": "\u0627\u0644\u0643\u0648\u062b\u0631",
+      "name_complex": "Al-Kawthar",
+      "name_simple": "Al-Kawthar",
+      "pages": [
+        602,
+        602
+      ],
+      "revelation_order": 15,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Abundance"
+      },
+      "verses_count": 3
+    },
+    {
+      "bismillah_pre": true,
+      "id": 109,
+      "name_arabic": "\u0627\u0644\u0643\u0627\u0641\u0631\u0648\u0646",
+      "name_complex": "Al-K\u0101fir\u016bn",
+      "name_simple": "Al-Kafirun",
+      "pages": [
+        603,
+        603
+      ],
+      "revelation_order": 18,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Disbelievers"
+      },
+      "verses_count": 6
+    },
+    {
+      "bismillah_pre": true,
+      "id": 110,
+      "name_arabic": "\u0627\u0644\u0646\u0635\u0631",
+      "name_complex": "An-Na\u015fr",
+      "name_simple": "An-Nasr",
+      "pages": [
+        603,
+        603
+      ],
+      "revelation_order": 114,
+      "revelation_place": "madinah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Divine Support"
+      },
+      "verses_count": 3
+    },
+    {
+      "bismillah_pre": true,
+      "id": 111,
+      "name_arabic": "\u0627\u0644\u0645\u0633\u062f",
+      "name_complex": "Al-Masad",
+      "name_simple": "Al-Masad",
+      "pages": [
+        603,
+        603
+      ],
+      "revelation_order": 6,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Palm Fiber"
+      },
+      "verses_count": 5
+    },
+    {
+      "bismillah_pre": true,
+      "id": 112,
+      "name_arabic": "\u0627\u0644\u0625\u062e\u0644\u0627\u0635",
+      "name_complex": "Al-'Ikhl\u0101\u015f",
+      "name_simple": "Al-Ikhlas",
+      "pages": [
+        604,
+        604
+      ],
+      "revelation_order": 22,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Sincerity"
+      },
+      "verses_count": 4
+    },
+    {
+      "bismillah_pre": true,
+      "id": 113,
+      "name_arabic": "\u0627\u0644\u0641\u0644\u0642",
+      "name_complex": "Al-Falaq",
+      "name_simple": "Al-Falaq",
+      "pages": [
+        604,
+        604
+      ],
+      "revelation_order": 20,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "The Daybreak"
+      },
+      "verses_count": 5
+    },
+    {
+      "bismillah_pre": true,
+      "id": 114,
+      "name_arabic": "\u0627\u0644\u0646\u0627\u0633",
+      "name_complex": "An-N\u0101s",
+      "name_simple": "An-Nas",
+      "pages": [
+        604,
+        604
+      ],
+      "revelation_order": 21,
+      "revelation_place": "makkah",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Mankind"
+      },
+      "verses_count": 6
+    }
+  ]
+}

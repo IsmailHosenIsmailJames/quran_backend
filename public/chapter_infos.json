@@ -1,0 +1,59 @@
+{
+  "chapter_infos": [
+    {
+      "author_name": "Hamza Roberto Piccardo",
+      "id": 155,
+      "language_name": "italian",
+      "name": "Hamza Roberto Piccardo",
+      "slug": "hamza-roberto-piccardo-info",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Hamza Roberto Piccardo"
+      }
+    },
+    {
+      "author_name": "Sayyid Abul Ala Maududi",
+      "id": 58,
+      "language_name": "english",
+      "name": "Chapter Info",
+      "slug": "",
+      "translated_name": {
+        "language_name": "english",
+        "name": "Chapter Info"
+      }
+    },
+    {
+      "author_name": "Sayyid Abul Ala Maududi",
+      "id": 61,
+      "language_name": "urdu",
+      "name": "Chapter Info",
+      "slug": null,
+      "translated_name": {
+        "language_name": "english",
+        "name": "Chapter Info"
+      }
+    },
+    {
+      "author_name": "Sayyid Abul Ala Maududi",
+      "id": 62,
+      "language_name": "tamil",
+      "name": "Chapter Info",
+      "slug": null,
+      "translated_name": {
+        "language_name": "english",
+        "name": "Chapter Info"
+      }
+    },
+    {
+      "author_name": "Sayyid Abul Ala Maududi",
+      "id": 63,
+      "language_name": "malayalam",
+      "name": "Chapter Info",
+      "slug": null,
+      "translated_name": {
+        "language_name": "english",
+        "name": "Chapter Info"
+      }
+    }
+  ]
+}
