@@ -1,0 +1,1142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quran API Documentation</title>
+    <style>
+        body { font-family: 'Arial', sans-serif; line-height: 1.6; margin: 20px; background-color: #f8f8f8; color: #333; }
+        .container { max-width: 95%; margin: 20px auto; padding: 20px; background-color: #fff; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+        h1, h2 { color: #0056b3; text-align: center; }
+        h2 { margin-top: 30px; }
+         p { margin-bottom: 15px; text-align: justify;}
+
+       ul { list-style-type: none; padding-left: 20px;}
+        li { margin-bottom: 8px; position: relative; }
+        li::before { content: '\2022'; color: #0056b3; position: absolute; left: -15px; }
+
+       .file-table { width: 100%; border-collapse: collapse; margin-top: 20px;}
+      .file-table th, .file-table td { border: 1px solid #ddd; padding: 8px; text-align: left;}
+      .file-table th { background-color: #f2f2f2; }
+       code { background: #e0f7fa; color: #0056b3; padding: 4px 8px; border-radius: 4px; font-size: 1em; display: inline-block; }
+       .section-header { color:#0056b3; border-bottom: 2px solid #ddd; padding-bottom: 5px; margin-bottom:10px;}
+        .api-usage-section{
+             margin-bottom:30px
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Quran API Documentation</h1>
+         <p class="api-usage-section">
+          This API provides access to Quran tafsir and translation text files. Please note that all files are compressed using BZip2. You will need to decompress the content within your application.
+        </p>
+
+        <h2 class="section-header">API Usage</h2>
+          <p>
+            To access any file, you'll use a specific URL format.
+            Replace <code>http://localhost:3000</code> with the actual domain name of your deployed application.
+          </p>
+
+        <h2 class="section-header">Accessing Files</h2>
+
+        <h3 class="section-header">Translation Files</h3>
+         <p>
+            Translation files are located in the <code>/translation</code> directory.
+            To access a specific translation file, use the following URL format:
+        </p>
+          <p>
+           <code>http://localhost:3000/translation/<id>.txt</code>
+        </p>
+          <p>
+            Replace <code><id></code> with the ID of the translation file you want to access (e.g., <code>19</code> for file <code>19.txt</code>).
+        </p>
+        <p>
+          For example, to get the <code>19.txt</code> file, use this URL:
+        </p>
+         <p>
+          <code>http://localhost:3000/translation/19.txt</code>
+        </p>
+
+
+        <h3 class="section-header">Tafsir Files</h3>
+        <p>
+            Tafsir files are located in the <code>/tafsir</code> directory.
+             To access a specific tafsir file, use the following URL format:
+        </p>
+          <p>
+           <code>http://localhost:3000/tafsir/<id>.txt</code>
+          </p>
+         <p>
+            Replace <code><id></code> with the ID of the tafsir file you want to access (e.g., <code>14</code> for file <code>14.txt</code>).
+        </p>
+        <p>
+           For example, to get the <code>14.txt</code> file, use this URL:
+        </p>
+          <p>
+              <code>http://localhost:3000/tafsir/14.txt</code>
+        </p>
+
+        <h2 class="section-header">Available Translations</h2>
+         <table class="file-table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Author</th>
+                    <th>Language</th>
+                    <th>Slug</th>
+                </tr>
+            </thead>
+           <tbody>
+            <!-- Translation Data -->
+            <tr>
+                    <td>85</td>
+                    <td>M.A.S. Abdel Haleem</td>
+                    <td>Abdul Haleem</td>
+                    <td>english</td>
+                    <td>en-haleem</td>
+              </tr>
+                 <tr>
+                    <td>131</td>
+                     <td>Dr. Mustafa Khattab, The Clear Quran</td>
+                    <td>Dr. Mustafa Khattab</td>
+                     <td>english</td>
+                     <td>clearquran-with-tafsir</td>
+                </tr>
+                   <tr>
+                    <td>84</td>
+                    <td>T. Usmani</td>
+                    <td>Mufti Taqi Usmani</td>
+                    <td>english</td>
+                     <td>en-taqi-usmani</td>
+                 </tr>
+                    <tr>
+                       <td>95</td>
+                        <td>A. Maududi (Tafhim commentary)</td>
+                       <td>Sayyid Abul Ala Maududi</td>
+                       <td>english</td>
+                      <td>en-al-maududi</td>
+                    </tr>
+                     <tr>
+                       <td>79</td>
+                        <td>Abu Adel</td>
+                        <td>Abu Adel</td>
+                       <td>russian</td>
+                       <td>ru-abu-adel</td>
+                      </tr>
+                      <tr>
+                         <td>86</td>
+                        <td>Office of the president of Maldives</td>
+                        <td>Office of the president of Maldives</td>
+                         <td>divehi, dhivehi, maldivian</td>
+                       <td>dv-unknow</td>
+                    </tr>
+                     <tr>
+                        <td>19</td>
+                       <td>M. Pickthall</td>
+                        <td>Mohammed Marmaduke William Pickthall</td>
+                        <td>english</td>
+                        <td>quran.en.pickthall</td>
+                     </tr>
+                     <tr>
+                        <td>75</td>
+                       <td>Alikhan Musayev</td>
+                       <td>Alikhan Musayev</td>
+                       <td>azeri</td>
+                       <td>az-alikhan</td>
+                     </tr>
+                    <tr>
+                       <td>76</td>
+                       <td>Muhammad Saleh</td>
+                       <td>Muhammad Saleh</td>
+                       <td>uighur, uyghur</td>
+                       <td>ug-saleh</td>
+                    </tr>
+                   <tr>
+                        <td>83</td>
+                        <td>Sheikh Isa Garcia</td>
+                        <td>Sheikh Isa Garcia</td>
+                         <td>spanish</td>
+                         <td>es-isa-garcia</td>
+                     </tr>
+                    <tr>
+                        <td>78</td>
+                       <td>Ministry of Awqaf, Egypt</td>
+                       <td>Ministry of Awqaf, Egypt</td>
+                       <td>russian</td>
+                      <td>ru-ministry-of-awqaf</td>
+                    </tr>
+                    <tr>
+                         <td>81</td>
+                         <td>Burhan Muhammad-Amin</td>
+                        <td>Burhan Muhammad-Amin</td>
+                        <td>kurdish</td>
+                         <td>ku-burhan-muhammad</td>
+                    </tr>
+                    <tr>
+                       <td>80</td>
+                        <td>Muhammad Karakunnu and Vanidas Elayavoor</td>
+                        <td>Muhammad Karakunnu and Vanidas Elayavoor</td>
+                         <td>malayalam</td>
+                        <td>ml-karakunnu</td>
+                     </tr>
+                     <tr>
+                        <td>22</td>
+                         <td>A. Yusuf Ali</td>
+                       <td>Abdullah Yusuf Ali</td>
+                      <td>english</td>
+                       <td>quran.en.yusufali</td>
+                    </tr>
+                    <tr>
+                        <td>20</td>
+                         <td>Saheeh International</td>
+                       <td>Saheeh International</td>
+                         <td>english</td>
+                         <td>en-sahih-international</td>
+                    </tr>
+                   <tr>
+                        <td>203</td>
+                         <td>Al-Hilali & Khan</td>
+                        <td>Muhammad Taqi-ud-Din al-Hilali & Muhammad Muhsin Khan</td>
+                        <td>english</td>
+                         <td></td>
+                     </tr>
+                     <tr>
+                        <td>234</td>
+                         <td>Fatah Muhammad Jalandhari</td>
+                        <td>Fatah Muhammad Jalandhari</td>
+                         <td>urdu</td>
+                        <td>ur-fatah-muhammad-jalandhari</td>
+                    </tr>
+                    <tr>
+                       <td>57</td>
+                        <td>Transliteration</td>
+                        <td>Transliteration</td>
+                         <td>english</td>
+                       <td>transliteration</td>
+                     </tr>
+                    <tr>
+                         <td>54</td>
+                         <td>Maulana Muhammad Junagarhi</td>
+                         <td>Maulana Muhammad Junagarhi</td>
+                         <td>urdu</td>
+                       <td>ur-junagarri</td>
+                    </tr>
+                      <tr>
+                       <td>156</td>
+                       <td>Fe Zilal al-Qur'an</td>
+                       <td>Sayyid Ibrahim Qutb</td>
+                         <td>urdu</td>
+                        <td>urdu-sayyid-qatab</td>
+                    </tr>
+                     <tr>
+                        <td>151</td>
+                         <td>Shaykh al-Hind Mahmud al-Hasan(with Tafsir E Usmani)</td>
+                       <td>Shaykh al-Hind Mahmud al-Hasan</td>
+                       <td>urdu</td>
+                       <td>tafsir-e-usmani</td>
+                   </tr>
+                      <tr>
+                          <td>158</td>
+                          <td>Bayan-ul-Quran</td>
+                          <td>Dr. Israr Ahmad</td>
+                          <td>urdu</td>
+                          <td>bayan-ul-quran</td>
+                      </tr>
+                      <tr>
+                         <td>97</td>
+                         <td>Tafheem e Qur'an - Syed Abu Ali Maududi</td>
+                        <td>Syed Abu Ali Maududi</td>
+                        <td>urdu</td>
+                         <td>ur-al-maududi</td>
+                      </tr>
+                     <tr>
+                        <td>136</td>
+                        <td>Montada Islamic Foundation</td>
+                       <td>Montada Islamic Foundation</td>
+                         <td>french</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>135</td>
+                       <td>IslamHouse.com</td>
+                       <td>IslamHouse.com</td>
+                        <td>persian</td>
+                       <td></td>
+                    </tr>
+                     <tr>
+                       <td>139</td>
+                         <td>Khawaja Mirof & Khawaja Mir</td>
+                        <td>Khawaja Mirof & Khawaja Mir</td>
+                        <td>tajik</td>
+                        <td></td>
+                   </tr>
+                   <tr>
+                        <td>35</td>
+                         <td>Ryoichi Mita</td>
+                        <td>Ryoichi Mita</td>
+                        <td>japanese</td>
+                        <td>ja-ryoichi-mita</td>
+                    </tr>
+                    <tr>
+                        <td>134</td>
+                        <td>King Fahad Quran Complex</td>
+                        <td>King Fahad Quran Complex</td>
+                        <td>indonesian</td>
+                       <td></td>
+                    </tr>
+                     <tr>
+                      <td>153</td>
+                        <td>Hamza Roberto Piccardo</td>
+                        <td>Hamza Roberto Piccardo</td>
+                        <td>italian</td>
+                        <td>hamza-roberto-piccardo</td>
+                    </tr>
+                    <tr>
+                       <td>161</td>
+                         <td>Taisirul Quran</td>
+                        <td>Tawheed Publication</td>
+                         <td>bengali</td>
+                       <td>bn-taisirul-quran</td>
+                    </tr>
+                    <tr>
+                         <td>163</td>
+                         <td>Sheikh Mujibur Rahman</td>
+                        <td>Darussalaam Publication</td>
+                         <td>bengali</td>
+                       <td>bn-sheikh-mujibur-rahman</td>
+                    </tr>
+                     <tr>
+                        <td>162</td>
+                        <td>Rawai Al-bayan</td>
+                         <td>Bayaan Foundation</td>
+                        <td>bengali</td>
+                        <td>bn-rawai-al-bayan</td>
+                    </tr>
+                    <tr>
+                      <td>210</td>
+                       <td>Dar Al-Salam Center</td>
+                         <td>Dar Al-Salam Center</td>
+                        <td>turkish</td>
+                      <td></td>
+                   </tr>
+                    <tr>
+                        <td>211</td>
+                       <td>Dar Al-Salam Center</td>
+                        <td>Dar Al-Salam Center</td>
+                        <td>tagalog</td>
+                        <td></td>
+                    </tr>
+                     <tr>
+                       <td>217</td>
+                       <td>Dr. Mikhailo Yaqubovic</td>
+                       <td>Dr. Mikhailo Yaqubovic</td>
+                         <td>ukrainian</td>
+                         <td></td>
+                    </tr>
+                   <tr>
+                       <td>229</td>
+                        <td>Sheikh Omar Sharif bin Abdul Salam</td>
+                       <td>Sheikh Omar Sharif bin Abdul Salam</td>
+                      <td>tamil</td>
+                       <td></td>
+                     </tr>
+                  <tr>
+                        <td>55</td>
+                        <td>Muhammad Sodiq Muhammad Yusuf (Latin) </td>
+                       <td>Muhammad Sodiq Muhammad Yusuf</td>
+                       <td>uzbek</td>
+                       <td>quran.uz.sodik</td>
+                   </tr>
+                   <tr>
+                       <td>143</td>
+                       <td>Muhammad Saleh Bamoki</td>
+                      <td>Muhammad Saleh Bamoki</td>
+                        <td>kurdish</td>
+                       <td></td>
+                     </tr>
+                      <tr>
+                       <td>141</td>
+                         <td>The Sabiq company</td>
+                      <td>The Sabiq company</td>
+                        <td>indonesian</td>
+                        <td></td>
+                    </tr>
+                     <tr>
+                         <td>140</td>
+                          <td>Montada Islamic Foundation</td>
+                       <td>Montada Islamic Foundation</td>
+                        <td>spanish</td>
+                       <td></td>
+                     </tr>
+                    <tr>
+                        <td>214</td>
+                        <td>Dar Al-Salam Center</td>
+                       <td>Dar Al-Salam Center</td>
+                         <td>bosnian</td>
+                        <td></td>
+                    </tr>
+                   <tr>
+                        <td>227</td>
+                        <td>Maulana Abder-Rahim ibn Muhammad</td>
+                       <td>Maulana Abder-Rahim ibn Muhammad</td>
+                        <td>telugu</td>
+                        <td></td>
+                     </tr>
+                    <tr>
+                        <td>226</td>
+                        <td>Muhammad Shafi’i Ansari</td>
+                         <td>Muhammad Shafi’i Ansari</td>
+                        <td>marathi</td>
+                       <td></td>
+                    </tr>
+                  <tr>
+                        <td>233</td>
+                        <td>Dar Al-Salam Center</td>
+                       <td>Dar Al-Salam Center</td>
+                        <td>hebrew</td>
+                       <td></td>
+                     </tr>
+                     <tr>
+                        <td>225</td>
+                        <td>Rabila Al-Umry</td>
+                        <td>Rabila Al-Umry</td>
+                        <td>gujarati</td>
+                        <td></td>
+                  </tr>
+                    <tr>
+                        <td>224</td>
+                        <td>Abdul-Hamid Haidar & Kanhi Muhammad</td>
+                       <td>Abdul-Hamid Haidar & Kanhi Muhammad</td>
+                       <td>malayalam</td>
+                        <td></td>
+                   </tr>
+                    <tr>
+                        <td>235</td>
+                        <td>Malak Faris Abdalsalaam</td>
+                         <td>Malak Faris Abdalsalaam</td>
+                        <td>dutch</td>
+                         <td>nl-abdalsalaam</td>
+                    </tr>
+                    <tr>
+                        <td>232</td>
+                       <td>African Development Foundation</td>
+                       <td>African Development Foundation</td>
+                         <td>ganda</td>
+                         <td></td>
+                     </tr>
+                    <tr>
+                       <td>231</td>
+                      <td>Dr. Abdullah Muhammad Abu Bakr and Sheikh Nasir Khamis</td>
+                       <td>Dr. Abdullah Muhammad Abu Bakr and Sheikh Nasir Khamis</td>
+                       <td>swahili</td>
+                        <td></td>
+                     </tr>
+                     <tr>
+                        <td>230</td>
+                       <td>Society of Institutes and Universities</td>
+                       <td>Society of Institutes and Universities</td>
+                       <td>thai</td>
+                        <td></td>
+                     </tr>
+                   <tr>
+                        <td>223</td>
+                       <td>Pioneers of Translation Center</td>
+                        <td>Pioneers of Translation Center</td>
+                         <td>tajik</td>
+                        <td></td>
+                     </tr>
+                    <tr>
+                         <td>222</td>
+                       <td>Khalifa Altay</td>
+                       <td>Khalifa Altay</td>
+                         <td>kazakh</td>
+                         <td></td>
+                     </tr>
+                    <tr>
+                        <td>220</td>
+                         <td>Ruwwad Center</td>
+                        <td>Translation Pioneers Center</td>
+                         <td>vietnamese</td>
+                        <td></td>
+                    </tr>
+                   <tr>
+                       <td>144</td>
+                        <td>Sofian S. Siregar</td>
+                       <td>Sofian S. Siregar</td>
+                        <td>Dutch</td>
+                       <td>nl_sofian_s._siregar</td>
+                    </tr>
+                   <tr>
+                        <td>88</td>
+                       <td>Hasan Efendi Nahi</td>
+                        <td>Hasan Efendi Nahi</td>
+                         <td>albanian</td>
+                       <td>al-hasan-efendi</td>
+                    </tr>
+                    <tr>
+                       <td>87</td>
+                        <td>Sadiq and Sani</td>
+                       <td>Sadiq and Sani</td>
+                         <td>amharic</td>
+                       <td>am-sadiq</td>
+                    </tr>
+                    <tr>
+                      <td>50</td>
+                       <td>Jan Trust Foundation</td>
+                         <td>Jan Trust Foundation</td>
+                         <td>tamil</td>
+                        <td>ta-jan-trust</td>
+                    </tr>
+                    <tr>
+                       <td>49</td>
+                       <td>Ali Muhsin Al-Barwani</td>
+                       <td>Ali Muhsin Al-Barwani</td>
+                         <td>swahili</td>
+                        <td>sw-ali-muhsin</td>
+                   </tr>
+                    <tr>
+                        <td>48</td>
+                       <td>Knut Bernström</td>
+                        <td>Knut Bernström</td>
+                         <td>swedish</td>
+                       <td>sv-knut</td>
+                    </tr>
+                    <tr>
+                        <td>128</td>
+                        <td>Cambodian Muslim Community Development</td>
+                         <td>Cambodian Muslim Community Development</td>
+                       <td>central khmer</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                       <td>45</td>
+                        <td>Russian Translation ( Elmir Kuliev )</td>
+                       <td>Elmir Kuliev</td>
+                        <td>russian</td>
+                         <td>quran.ru.kuliev</td>
+                   </tr>
+                   <tr>
+                        <td>77</td>
+                        <td>Turkish Translation(Diyanet)</td>
+                        <td>Diyanet Isleri</td>
+                         <td>turkish</td>
+                       <td>quran.tr.diyanet</td>
+                    </tr>
+                  <tr>
+                         <td>39</td>
+                       <td>Abdullah Muhammad Basmeih</td>
+                        <td>Abdullah Muhammad Basmeih</td>
+                        <td>malay</td>
+                       <td>ms-abdullah</td>
+                    </tr>
+                   <tr>
+                         <td>36</td>
+                       <td>Korean</td>
+                        <td>Korean</td>
+                        <td>korean</td>
+                         <td>ko-unknown</td>
+                     </tr>
+                   <tr>
+                         <td>30</td>
+                        <td>Finnish</td>
+                        <td>Finnish</td>
+                        <td>finnish</td>
+                        <td>fi-unknown</td>
+                    </tr>
+                     <tr>
+                         <td>26</td>
+                         <td>Czech</td>
+                       <td>Czech</td>
+                        <td>czech</td>
+                        <td>cs-unknown</td>
+                     </tr>
+                      <tr>
+                         <td>103</td>
+                         <td>Helmi Nasr</td>
+                        <td>Helmi Nasr</td>
+                       <td>portuguese</td>
+                       <td></td>
+                    </tr>
+                    <tr>
+                       <td>74</td>
+                       <td>Tajik</td>
+                       <td>AbdolMohammad Ayati</td>
+                         <td>tajik</td>
+                        <td>tg-ayati</td>
+                    </tr>
+                    <tr>
+                        <td>23</td>
+                         <td>Azerbaijani</td>
+                       <td>Azerbaijani</td>
+                         <td>azeri</td>
+                        <td>az-unknown</td>
+                    </tr>
+                    <tr>
+                       <td>101</td>
+                       <td>Alauddin Mansour</td>
+                         <td>Alauddin Mansour</td>
+                        <td>uzbek</td>
+                        <td></td>
+                    </tr>
+                   <tr>
+                       <td>53</td>
+                        <td>Tatar</td>
+                       <td>Tatar</td>
+                        <td>tatar</td>
+                        <td>tt-unknow</td>
+                   </tr>
+                    <tr>
+                       <td>47</td>
+                        <td>Albanian</td>
+                         <td>Albanian</td>
+                        <td>albanian</td>
+                        <td>sq-unknown</td>
+                     </tr>
+                    <tr>
+                      <td>44</td>
+                         <td>Grigore</td>
+                        <td>George Grigore</td>
+                         <td>Romanian</td>
+                       <td>ro-grigore</td>
+                     </tr>
+                   <tr>
+                         <td>42</td>
+                       <td>Józef Bielawski</td>
+                       <td>Józef Bielawski</td>
+                        <td>polish</td>
+                         <td>pl-jozef-bielawski</td>
+                    </tr>
+                  <tr>
+                      <td>41</td>
+                      <td>Norwegian</td>
+                      <td>Norwegian</td>
+                        <td>norwegian</td>
+                       <td>no-unknown</td>
+                    </tr>
+                    <tr>
+                        <td>106</td>
+                      <td>Magomed Magomedov</td>
+                       <td>Magomed Magomedov</td>
+                         <td>chechen</td>
+                        <td>chechen-translation</td>
+                    </tr>
+                  <tr>
+                        <td>236</td>
+                         <td>Ramdane At Mansour</td>
+                         <td>Ramdane At Mansour</td>
+                         <td>Amazigh</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>237</td>
+                        <td>Tzvetan Theophanov</td>
+                       <td>Tzvetan Theophanov</td>
+                         <td>Bulgarian</td>
+                        <td></td>
+                    </tr>
+                   <tr>
+                        <td>238</td>
+                         <td>Taj Mehmood Amroti</td>
+                         <td>Taj Mehmood Amroti</td>
+                        <td>Sindhi</td>
+                        <td></td>
+                    </tr>
+                  <tr>
+                        <td>125</td>
+                        <td>Shaykh Abu Rahimah Mikael Aykyuni</td>
+                        <td>Shaykh Abu Rahimah Mikael Aykyuni</td>
+                        <td>yoruba</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                         <td>124</td>
+                         <td>Muslim Shahin</td>
+                        <td>Muslim Shahin</td>
+                        <td>turkish</td>
+                        <td></td>
+                     </tr>
+                    <tr>
+                       <td>46</td>
+                       <td>Mahmud Muhammad Abduh</td>
+                       <td>Mahmud Muhammad Abduh</td>
+                       <td>somali</td>
+                       <td>so-mahmud-abduh</td>
+                   </tr>
+                   <tr>
+                         <td>113</td>
+                         <td>Khalifah Altai</td>
+                       <td>Khalifah Altai</td>
+                       <td>kazakh</td>
+                       <td></td>
+                    </tr>
+                   <tr>
+                        <td>112</td>
+                        <td>Shaban Britch</td>
+                        <td>Shaban Britch</td>
+                       <td>turkish</td>
+                        <td></td>
+                    </tr>
+                   <tr>
+                         <td>38</td>
+                        <td>Maranao</td>
+                       <td>Maranao</td>
+                        <td>maranao</td>
+                        <td>mrn-unknown</td>
+                     </tr>
+                   <tr>
+                        <td>89</td>
+                        <td>Albanian Translation</td>
+                       <td>Sherif Ahmeti</td>
+                         <td>albanian</td>
+                        <td>quran.al.ahmeti</td>
+                   </tr>
+                    <tr>
+                        <td>56</td>
+                       <td>Chinese Translation (Simplified) - Ma Jain</td>
+                        <td>Ma Jian</td>
+                         <td>chinese</td>
+                        <td>quran.zh.ma.jain</td>
+                     </tr>
+                     <tr>
+                        <td>32</td>
+                        <td>Hausa Translation(Abubakar Gumi)</td>
+                       <td>Abubakar Mahmoud Gumi</td>
+                       <td>hausa</td>
+                         <td>quran.ha.abubakar</td>
+                    </tr>
+                     <tr>
+                        <td>108</td>
+                       <td>Ahl Al-Hadith Central Society of Nepal</td>
+                         <td>Ahl Al-Hadith Central Society of Nepal</td>
+                       <td>nepali</td>
+                        <td></td>
+                     </tr>
+                     <tr>
+                         <td>37</td>
+                        <td>Malayalam Translation(Abdul Hameed and Kunhi)</td>
+                        <td>Cheriyamundam Abdul Hameed and Kunhi Mohammed Parappoor</td>
+                         <td>malayalam</td>
+                        <td>quran.ml.abdul.hameed</td>
+                    </tr>
+                     <tr>
+                        <td>43</td>
+                        <td>Portuguese Translation( Samir )</td>
+                        <td>Samir El-Hayek</td>
+                         <td>portuguese</td>
+                        <td>quran,pt.samir</td>
+                     </tr>
+                     <tr>
+                      <td>51</td>
+                        <td>Thai Translatio (King Fahad Quran Complex)</td>
+                        <td>King Fahad Quran Complex</td>
+                        <td>thai</td>
+                       <td>quran.th.quran.complex</td>
+                    </tr>
+                    <tr>
+                        <td>111</td>
+                       <td>Ghali Apapur Apaghuna</td>
+                         <td>Ghali Apapur Apaghuna</td>
+                         <td>oromo</td>
+                         <td></td>
+                   </tr>
+                   <tr>
+                      <td>115</td>
+                       <td>Abubakar Mahmood Jummi</td>
+                        <td>Abubakar Mahmood Jummi</td>
+                         <td>hausa</td>
+                       <td></td>
+                    </tr>
+                     <tr>
+                         <td>31</td>
+                         <td>Muhammad Hamidullah</td>
+                        <td>Muhammad Hamidullah</td>
+                        <td>french</td>
+                       <td>quran.fr.hamidullah</td>
+                     </tr>
+                     <tr>
+                        <td>29</td>
+                       <td>Hussein Taji Kal Dari</td>
+                         <td>Hussein Taji Kal Dari</td>
+                        <td>persian</td>
+                         <td>fr-hussein-taji</td>
+                   </tr>
+                     <tr>
+                        <td>208</td>
+                       <td>Abu Reda Muhammad ibn Ahmad</td>
+                       <td>Abu Reda Muhammad ibn Ahmad</td>
+                        <td>german</td>
+                         <td></td>
+                   </tr>
+                   <tr>
+                        <td>209</td>
+                       <td>Othman al-Sharif</td>
+                        <td>Othman al-Sharif</td>
+                        <td>italian</td>
+                         <td></td>
+                    </tr>
+                   <tr>
+                       <td>133</td>
+                        <td>Abdul Hameed Baqavi</td>
+                       <td>Abdul Hameed Baqavi</td>
+                         <td>tamil</td>
+                        <td></td>
+                     </tr>
+                    <tr>
+                         <td>25</td>
+                       <td>Muhamed Mehanović</td>
+                         <td>Muhamed Mehanović</td>
+                         <td>bosnian</td>
+                       <td>bs-unknown</td>
+                     </tr>
+                     <tr>
+                        <td>221</td>
+                       <td>Hasan Abdul-Karim</td>
+                        <td>Hasan Abdul-Karim</td>
+                         <td>vietnamese</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                       <td>219</td>
+                        <td>Hamed Choi</td>
+                       <td>Hamed Choi</td>
+                         <td>korean</td>
+                        <td></td>
+                    </tr>
+                   <tr>
+                       <td>52</td>
+                       <td>Elmalili Hamdi Yazir</td>
+                       <td>Elmalili Hamdi Yazir</td>
+                       <td>turkish</td>
+                       <td>tr-hamdi</td>
+                   </tr>
+                    <tr>
+                        <td>213</td>
+                         <td>Dr. Abu Bakr Muhammad Zakaria</td>
+                       <td>Dr. Abu Bakr Muhammad Zakaria</td>
+                         <td>bengali</td>
+                       <td></td>
+                    </tr>
+                   <tr>
+                       <td>199</td>
+                       <td>Noor International Center</td>
+                       <td>Noor International Center</td>
+                         <td>spanish</td>
+                        <td></td>
+                     </tr>
+                    <tr>
+                        <td>218</td>
+                        <td>Saeed Sato</td>
+                       <td>Saeed Sato</td>
+                         <td>japanese</td>
+                        <td></td>
+                   </tr>
+                     <tr>
+                        <td>228</td>
+                        <td>Ruwwad Center</td>
+                       <td>Translation Pioneers Center</td>
+                         <td>sinhala, sinhalese</td>
+                        <td></td>
+                     </tr>
+                   <tr>
+                       <td>126</td>
+                       <td>Besim Korkut</td>
+                       <td>Besim Korkut</td>
+                         <td>bosnian</td>
+                       <td></td>
+                    </tr>
+                     <tr>
+                       <td>122</td>
+                        <td>Maulana Azizul Haque al-Umari</td>
+                        <td>Maulana Azizul Haque al-Umari</td>
+                       <td>hindi</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                      <td>120</td>
+                         <td>Shaykh Rafeequl Islam Habibur-Rahman</td>
+                        <td>Shaykh Rafeequl Islam Habibur-Rahman</td>
+                         <td>assamese</td>
+                        <td></td>
+                     </tr>
+                    <tr>
+                        <td>127</td>
+                       <td>Muhammad Sodik Muhammad Yusuf</td>
+                       <td>Muhammad Sodik Muhammad Yusuf</td>
+                         <td>uzbek</td>
+                       <td></td>
+                    </tr>
+                   <tr>
+                       <td>118</td>
+                        <td>Zakaria Abulsalam</td>
+                        <td>Zakaria Abulsalam</td>
+                         <td>pashto</td>
+                       <td></td>
+                    </tr>
+                    <tr>
+                        <td>109</td>
+                        <td>Muhammad Makin</td>
+                        <td>Muhammad Makin</td>
+                        <td>chinese</td>
+                       <td></td>
+                   </tr>
+                  <tr>
+                        <td>27</td>
+                        <td>Frank Bubenheim and Nadeem</td>
+                        <td>Frank Bubenheim and Nadeem</td>
+                        <td>german</td>
+                        <td>de-bubenheim</td>
+                    </tr>
+                     <tr>
+                        <td>33</td>
+                        <td>Indonesian Islamic affairs ministry</td>
+                         <td>Indonesian Islamic affairs ministry</td>
+                         <td>indonesian</td>
+                        <td>quran.id</td>
+                    </tr>
+                    <tr>
+                        <td>785</td>
+                         <td>Mawlawi Muhammad Anwar Badkhashani</td>
+                       <td>Mawlawi Muhammad Anwar Badkhashani</td>
+                         <td>dari</td>
+                         <td></td>
+                   </tr>
+                   <tr>
+                       <td>795</td>
+                        <td>Suliman Kanti</td>
+                       <td>Suliman Kanti</td>
+                        <td>bambara</td>
+                       <td></td>
+                    </tr>
+                    <tr>
+                       <td>779</td>
+                        <td>Rashid Maash</td>
+                        <td>Rashid Maash</td>
+                         <td>french</td>
+                       <td>fr-rashid-maash</td>
+                    </tr>
+                    <tr>
+                        <td>771</td>
+                        <td>Kannada Translation</td>
+                        <td>Kannada Translation</td>
+                        <td>kannada</td>
+                        <td>kannada-quran</td>
+                   </tr>
+                    <tr>
+                       <td>782</td>
+                        <td>Islamic and Cultural League</td>
+                         <td>Islamic and Cultural League</td>
+                       <td>romanian</td>
+                       <td></td>
+                    </tr>
+                    <tr>
+                         <td>796</td>
+                        <td>Baba Mamady Jani</td>
+                        <td>Baba Mamady Jani</td>
+                         <td>bambara</td>
+                        <td></td>
+                    </tr>
+                   <tr>
+                        <td>798</td>
+                         <td>Abdul Hamid Silika</td>
+                        <td>Abdul Hamid Silika</td>
+                        <td>yau,yuw</td>
+                         <td></td>
+                   </tr>
+                    <tr>
+                        <td>774</td>
+                        <td>The Rwanda Muslims Association team</td>
+                        <td>The Rwanda Muslims Association team</td>
+                         <td>kinyarwanda</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                      <td>840</td>
+                        <td>Abu Bakr Ibrahim Ali (Bakurube)</td>
+                        <td>Abu Bakr Ibrahim Ali</td>
+                        <td>divehi</td>
+                         <td>ml-shaikh-aboobakr-ibrahim-ali</td>
+                     </tr>
+                   <tr>
+                        <td>819</td>
+                       <td>Maulana Wahiduddin Khan</td>
+                        <td>Maulana Wahiduddin Khan</td>
+                        <td>urdu</td>
+                         <td>maulana-wahid-uddin-khan-urdu</td>
+                     </tr>
+                    <tr>
+                        <td>831</td>
+                        <td>Abul Ala Maududi(Roman Urdu)</td>
+                         <td>Abul Ala Maududi</td>
+                        <td>urdu</td>
+                        <td>maududi-roman-urdu</td>
+                    </tr>
+            </tbody>
+        </table>
+
+
+         <h2 class="section-header">Available Tafsirs</h2>
+            <table class="file-table">
+               <thead>
+                 <tr>
+                      <th>ID</th>
+                     <th>Name</th>
+                       <th>Author</th>
+                     <th>Language</th>
+                     <th>Slug</th>
+                 </tr>
+               </thead>
+              <tbody>
+                    <tr>
+                    <td>381</td>
+                    <td>Tafsir Fathul Majid</td>
+                    <td>AbdulRahman Bin Hasan Al-Alshaikh</td>
+                    <td>bengali</td>
+                    <td>tafisr-fathul-majid-bn</td>
+                     </tr>
+                     <tr>
+                        <td>169</td>
+                       <td>Tafsir Ibn Kathir (abridged)</td>
+                       <td>Hafiz Ibn Kathir</td>
+                        <td>english</td>
+                       <td>en-tafisr-ibn-kathir</td>
+                    </tr>
+                   <tr>
+                        <td>14</td>
+                       <td>Tafsir Ibn Kathir</td>
+                       <td>Hafiz Ibn Kathir</td>
+                        <td>arabic</td>
+                       <td>ar-tafsir-ibn-kathir</td>
+                     </tr>
+                    <tr>
+                      <td>164</td>
+                      <td>Tafsir ibn Kathir</td>
+                      <td>Tawheed Publication</td>
+                      <td>bengali</td>
+                      <td>bn-tafsir-ibn-e-kaseer</td>
+                     </tr>
+                    <tr>
+                      <td>165</td>
+                      <td>Tafsir Ahsanul Bayaan</td>
+                      <td>Bayaan Foundation</td>
+                      <td>bengali</td>
+                      <td>bn-tafsir-ahsanul-bayaan</td>
+                   </tr>
+                    <tr>
+                      <td>166</td>
+                      <td>Tafsir Abu Bakr Zakaria</td>
+                      <td>King Fahd Quran Printing Complex</td>
+                      <td>bengali</td>
+                      <td>bn-tafsir-abu-bakr-zakaria</td>
+                   </tr>
+                   <tr>
+                        <td>168</td>
+                      <td>Maarif-ul-Quran</td>
+                       <td>Mufti Muhammad Shafi</td>
+                      <td>english</td>
+                      <td>en-tafsir-maarif-ul-quran</td>
+                    </tr>
+                    <tr>
+                     <td>170</td>
+                       <td>Tafsir Al Saddi</td>
+                       <td>Saddi</td>
+                        <td>russian</td>
+                       <td>ru-tafsir-al-saddi</td>
+                   </tr>
+                  <tr>
+                      <td>91</td>
+                      <td>Tafsir Al Saddi</td>
+                     <td>Saddi</td>
+                      <td>arabic</td>
+                      <td>ar-tafsir-al-saddi</td>
+                    </tr>
+                     <tr>
+                      <td>94</td>
+                      <td>Tafsir Al-Baghawi</td>
+                       <td>Baghawy</td>
+                       <td>arabic</td>
+                       <td>ar-tafsir-al-baghawi</td>
+                   </tr>
+                   <tr>
+                     <td>92</td>
+                      <td>Tafsir Tanwir al-Miqbas</td>
+                     <td>Tanweer</td>
+                      <td>arabic</td>
+                      <td>ar-tafsir-tanwir-al-miqbas</td>
+                    </tr>
+                   <tr>
+                     <td>93</td>
+                      <td>Tafsir Al Wasit</td>
+                       <td>Waseet</td>
+                       <td>arabic</td>
+                      <td>ar-tafsir-al-wasit</td>
+                  </tr>
+                    <tr>
+                     <td>15</td>
+                       <td>Tafsir al-Tabari</td>
+                       <td>Tabari</td>
+                        <td>arabic</td>
+                       <td>ar-tafsir-al-tabari</td>
+                   </tr>
+                  <tr>
+                     <td>16</td>
+                     <td>Tafsir Muyassar</td>
+                     <td>\u0627\u0644\u0645\u06cc\u0633\u0631</td>
+                     <td>arabic</td>
+                     <td>ar-tafsir-muyassar</td>
+                    </tr>
+                    <tr>
+                      <td>90</td>
+                      <td>Tafsir Al Qurtubi</td>
+                      <td>Qurtubi</td>
+                      <td>arabic</td>
+                      <td>ar-tafsir-al-qurtubi</td>
+                    </tr>
+                     <tr>
+                      <td>804</td>
+                      <td>Rebar Kurdish Tafsir</td>
+                      <td>Rebar Kurdish Tafsir</td>
+                      <td>Kurdish</td>
+                     <td>kurd-tafsir-rebar</td>
+                    </tr>
+                    <tr>
+                        <td>157</td>
+                       <td>Fi Zilal al-Quran</td>
+                       <td>Sayyid Ibrahim Qutb</td>
+                        <td>urdu</td>
+                       <td>tafsir-fe-zalul-quran-syed-qatab</td>
+                    </tr>
+                   <tr>
+                       <td>160</td>
+                      <td>Tafsir Ibn Kathir</td>
+                       <td>Hafiz Ibn Kathir</td>
+                        <td>urdu</td>
+                      <td>tafsir-ibn-e-kaseer-urdu</td>
+                    </tr>
+                     <tr>
+                      <td>159</td>
+                      <td>Tafsir Bayan ul Quran</td>
+                      <td>Dr. Israr Ahmad</td>
+                      <td>urdu</td>
+                      <td>tafsir-bayan-ul-quran</td>
+                    </tr>
+            </tbody>
+        </table>
+        <h2>Important Notes</h2>
+        <ul>
+             <li>
+               <strong>Decompression Required:</strong>
+               The text files you receive will be compressed using BZip2. You will need to decompress the content within your application.
+            </li>
+            <li>
+               Replace <code>http://localhost:3000</code> with the actual domain name of your deployed application.
+            </li>
+             <li>
+                Ensure to use a valid file ID in the URL.
+            </li>
+        </ul>
+    </div>
+</body>
+</html>
