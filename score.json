@@ -1,0 +1,296 @@
+{
+    "Arabic": [
+        {
+            "fileName": "Tafseer Al-Baghawi.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6236,
+            "score": 100
+        },
+        {
+            "fileName": "Tafseer Al Saddi.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6177,
+            "score": 99
+        },
+        {
+            "fileName": "Tafsir Muyassar.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 5278,
+            "score": 84
+        },
+        {
+            "fileName": "Tafsir al-Tabari.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6196,
+            "score": 99
+        },
+        {
+            "fileName": "Tafsir Al Wasit.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6108,
+            "score": 97
+        },
+        {
+            "fileName": "Arabic Al-Mukhtasar in interpreting the Noble Quran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6211,
+            "score": 99
+        },
+        {
+            "fileName": "Asseraj fi Bayan Gharib AlQuran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 1738,
+            "score": 27
+        },
+        {
+            "fileName": "Tafseer Al Qurtubi.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6235,
+            "score": 99
+        },
+        {
+            "fileName": "Tafseer Tanwir al-Miqbas.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6083,
+            "score": 97
+        },
+        {
+            "fileName": "Tafsir Ibn Kathir.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6205,
+            "score": 99
+        }
+    ],
+    "Persian": [
+        {
+            "fileName": "Al-Mukhtasar in interpreting the Noble Quran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6234,
+            "score": 99
+        }
+    ],
+    "Bosnian": [
+        {
+            "fileName": "Abridged Explanation of the Quran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6220,
+            "score": 99
+        }
+    ],
+    "Bengali": [
+        {
+            "fileName": "Tafsir Fathul Majid.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 205,
+            "score": 3
+        },
+        {
+            "fileName": "Tafseer ibn Kathir.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 1914,
+            "score": 30
+        },
+        {
+            "fileName": "Tafsir Abu Bakr Zakaria.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6235,
+            "score": 99
+        },
+        {
+            "fileName": "Abridged Explanation of the Quran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6214,
+            "score": 99
+        },
+        {
+            "fileName": "Tafsir Ahsanul Bayaan.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6233,
+            "score": 99
+        }
+    ],
+    "English": [
+        {
+            "fileName": "Tafsir Ibn Kathir (abridged).json",
+            "totalAyahs": 6236,
+            "hasTafsir": 1895,
+            "score": 30
+        },
+        {
+            "fileName": "Tazkirul Quran(Maulana Wahiduddin Khan).json",
+            "totalAyahs": 6236,
+            "hasTafsir": 1952,
+            "score": 31
+        },
+        {
+            "fileName": "Maarif-ul-Quran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 3037,
+            "score": 48
+        },
+        {
+            "fileName": "Al-Mukhtasar.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6211,
+            "score": 99
+        }
+    ],
+    "Spanish": [
+        {
+            "fileName": "Abridged Explanation of the Quran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6219,
+            "score": 99
+        }
+    ],
+    "Italian": [
+        {
+            "fileName": "Al-Mukhtasar in interpreting the Noble Quran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6212,
+            "score": 99
+        }
+    ],
+    "Chinese": [
+        {
+            "fileName": "Abridged Explanation of the Quran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6214,
+            "score": 99
+        }
+    ],
+    "Kurdish": [
+        {
+            "fileName": "Rebar Kurdish Tafsir.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6236,
+            "score": 100
+        }
+    ],
+    "Malayalam": [
+        {
+            "fileName": "Abridged Explanation of the Quran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6214,
+            "score": 99
+        }
+    ],
+    "French": [
+        {
+            "fileName": "Abridged Explanation of the Quran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6212,
+            "score": 99
+        }
+    ],
+    "Assamese": [
+        {
+            "fileName": "Assamese Abridged Explanation of the Quran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6215,
+            "score": 99
+        }
+    ],
+    "Urdu": [
+        {
+            "fileName": "Fi Zilal al-Quran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 3995,
+            "score": 64
+        },
+        {
+            "fileName": "Tafsir Bayan ul Quran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 5073,
+            "score": 81
+        },
+        {
+            "fileName": "Tafsir As-Saadi - Urdu.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 1739,
+            "score": 27
+        },
+        {
+            "fileName": "Tazkirul Quran(Maulana Wahiduddin Khan).json",
+            "totalAyahs": 6236,
+            "hasTafsir": 1558,
+            "score": 24
+        }
+    ],
+    "Japanese": [
+        {
+            "fileName": "Abridged Explanation of the Quran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6211,
+            "score": 99
+        }
+    ],
+    "Turkish": [
+        {
+            "fileName": "Al-Mukhtasar in Interpreting the Noble Quran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6222,
+            "score": 99
+        }
+    ],
+    "Russian": [
+        {
+            "fileName": "Tafseer Al Saddi.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 4742,
+            "score": 76
+        },
+        {
+            "fileName": "Al-Mukhtasar.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6215,
+            "score": 99
+        },
+        {
+            "fileName": "Tafsir Ibn Kathir.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 2101,
+            "score": 33
+        }
+    ],
+    "Central Khmer": [
+        {
+            "fileName": "Abridged Explanation of the Quran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6211,
+            "score": 99
+        }
+    ],
+    "Tagalog": [
+        {
+            "fileName": "Al-Mukhtasar in interpreting the Noble Quran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6212,
+            "score": 99
+        }
+    ],
+    "Indonesian": [
+        {
+            "fileName": "Al-Mukhtasar in Interpreting the Noble Quran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6212,
+            "score": 99
+        }
+    ],
+    "vietnamese": [
+        {
+            "fileName": "Al-Mukhtasar in interpreting the Noble Quran.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 6221,
+            "score": 99
+        }
+    ],
+    "Albanian": [
+        {
+            "fileName": "Tafsir As-Saadi.json",
+            "totalAyahs": 6236,
+            "hasTafsir": 5604,
+            "score": 89
+        }
+    ]
+}
