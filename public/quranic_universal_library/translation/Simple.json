@@ -1,0 +1,1632 @@
+{
+    "Bulgarian": [
+        {
+            "language": "Bulgarian",
+            "name": "Bulgarian_Translation",
+            "file_name": "Bulgarian_Translation.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Bulgarian/Bulgarian_Translation.simple.json"
+        },
+        {
+            "language": "Bulgarian",
+            "name": "Tzvetan_Theophanov",
+            "file_name": "Tzvetan_Theophanov.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Bulgarian/Tzvetan_Theophanov.simple.json"
+        }
+    ],
+    "Persian": [
+        {
+            "language": "Persian",
+            "name": "Hussein_Taji_Kal_Dari",
+            "file_name": "Hussein_Taji_Kal_Dari.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Persian/Hussein_Taji_Kal_Dari.simple.json"
+        },
+        {
+            "language": "Persian",
+            "name": "IslamHouse.com",
+            "file_name": "IslamHouse.com.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Persian/IslamHouse.com.simple.json"
+        }
+    ],
+    "Macedonian": [
+        {
+            "language": "Macedonian",
+            "name": "Macedonian_scholars",
+            "file_name": "Macedonian_scholars.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Macedonian/Macedonian_scholars.simple.json"
+        },
+        {
+            "language": "Macedonian",
+            "name": "Macedonian_scholars",
+            "file_name": "Macedonian_scholars.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Macedonian/Macedonian_scholars.translation-with-footnote-tags.json"
+        }
+    ],
+    "Kashmiri": [
+        {
+            "language": "Kashmiri",
+            "name": "Bayanul_Furqan(Koshur_Quran)",
+            "file_name": "Bayanul_Furqan(Koshur_Quran).simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Kashmiri/Bayanul_Furqan(Koshur_Quran).simple.json"
+        }
+    ],
+    "Bosnian": [
+        {
+            "language": "Bosnian",
+            "name": "Muhamed_Mehanović",
+            "file_name": "Muhamed_Mehanović.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Bosnian/Muhamed_Mehanović.simple.json"
+        },
+        {
+            "language": "Bosnian",
+            "name": "Besim_Korkut",
+            "file_name": "Besim_Korkut.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Bosnian/Besim_Korkut.simple.json"
+        },
+        {
+            "language": "Bosnian",
+            "name": "Dar_Al-Salam_Center",
+            "file_name": "Dar_Al-Salam_Center.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Bosnian/Dar_Al-Salam_Center.simple.json"
+        }
+    ],
+    "Amharic": [
+        {
+            "language": "Amharic",
+            "name": "Sadiq_and_Sani",
+            "file_name": "Sadiq_and_Sani.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Amharic/Sadiq_and_Sani.simple.json"
+        }
+    ],
+    "Bengali": [
+        {
+            "language": "Bengali",
+            "name": "Sheikh_Mujibur_Rahman",
+            "file_name": "Sheikh_Mujibur_Rahman.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Bengali/Sheikh_Mujibur_Rahman.simple.json"
+        },
+        {
+            "language": "Bengali",
+            "name": "Taisirul_Quran",
+            "file_name": "Taisirul_Quran.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Bengali/Taisirul_Quran.simple.json"
+        },
+        {
+            "language": "Bengali",
+            "name": "Rawai_Al-bayan",
+            "file_name": "Rawai_Al-bayan.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Bengali/Rawai_Al-bayan.simple.json"
+        },
+        {
+            "language": "Bengali",
+            "name": "Fathul_Majid",
+            "file_name": "Fathul_Majid.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Bengali/Fathul_Majid.simple.json"
+        },
+        {
+            "language": "Bengali",
+            "name": "Dr._Abu_Bakr_Muhammad_Zakaria",
+            "file_name": "Dr._Abu_Bakr_Muhammad_Zakaria.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Bengali/Dr._Abu_Bakr_Muhammad_Zakaria.simple.json"
+        }
+    ],
+    "English": [
+        {
+            "language": "English",
+            "name": "Fadel_Soliman,_Bridges’_translation",
+            "file_name": "Fadel_Soliman,_Bridges’_translation.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/English/Fadel_Soliman,_Bridges’_translation.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "English",
+            "name": "Muhammad_Sarwar",
+            "file_name": "Muhammad_Sarwar.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/Muhammad_Sarwar.simple.json"
+        },
+        {
+            "language": "English",
+            "name": "Dr._Ghali",
+            "file_name": "Dr._Ghali.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/Dr._Ghali.simple.json"
+        },
+        {
+            "language": "English",
+            "name": "Dr._T._B._Irving",
+            "file_name": "Dr._T._B._Irving.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/Dr._T._B._Irving.simple.json"
+        },
+        {
+            "language": "English",
+            "name": "Mufti_Taqi_Usmani",
+            "file_name": "Mufti_Taqi_Usmani.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/Mufti_Taqi_Usmani.simple.json"
+        },
+        {
+            "language": "English",
+            "name": "Muhammad_Taqi-ud-Din_al-Hilali_&_Muhammad_Muhsin_Khan",
+            "file_name": "Muhammad_Taqi-ud-Din_al-Hilali_&_Muhammad_Muhsin_Khan.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/English/Muhammad_Taqi-ud-Din_al-Hilali_&_Muhammad_Muhsin_Khan.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "English",
+            "name": "Maulana_Wahiduddin_Khan_(1)",
+            "file_name": "Maulana_Wahiduddin_Khan.simple_(1).json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/Maulana_Wahiduddin_Khan.simple_(1).json"
+        },
+        {
+            "language": "English",
+            "name": "Saheeh_International",
+            "file_name": "Saheeh_International.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/English/Saheeh_International.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "English",
+            "name": "Muhammad_Asad",
+            "file_name": "Muhammad_Asad.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/Muhammad_Asad.simple.json"
+        },
+        {
+            "language": "English",
+            "name": "Tafheem-ul-Quran_-_Abul_Ala_Maududi",
+            "file_name": "Tafheem-ul-Quran_-_Abul_Ala_Maududi.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/Tafheem-ul-Quran_-_Abul_Ala_Maududi.simple.json"
+        },
+        {
+            "language": "English",
+            "name": "Ruwwad_Center",
+            "file_name": "Ruwwad_Center.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/Ruwwad_Center.simple.json"
+        },
+        {
+            "language": "English",
+            "name": "Maarif-ul-Quran",
+            "file_name": "Maarif-ul-Quran.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/Maarif-ul-Quran.simple.json"
+        },
+        {
+            "language": "English",
+            "name": "A._J._Arberry",
+            "file_name": "A._J._Arberry.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/A._J._Arberry.simple.json"
+        },
+        {
+            "language": "English",
+            "name": "Muhsin_Khan",
+            "file_name": "Muhsin_Khan.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/Muhsin_Khan.simple.json"
+        },
+        {
+            "language": "English",
+            "name": "Muhammad_Taqi-ud-Din_al-Hilali_&_Muhammad_Muhsin_Khan",
+            "file_name": "Muhammad_Taqi-ud-Din_al-Hilali_&_Muhammad_Muhsin_Khan.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/Muhammad_Taqi-ud-Din_al-Hilali_&_Muhammad_Muhsin_Khan.simple.json"
+        },
+        {
+            "language": "English",
+            "name": "Shakir",
+            "file_name": "Shakir.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/Shakir.simple.json"
+        },
+        {
+            "language": "English",
+            "name": "Fadel_Soliman,_Bridges’_translation",
+            "file_name": "Fadel_Soliman,_Bridges’_translation.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/Fadel_Soliman,_Bridges’_translation.simple.json"
+        },
+        {
+            "language": "English",
+            "name": "Abdul_Majid_Daryabadi",
+            "file_name": "Abdul_Majid_Daryabadi.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/Abdul_Majid_Daryabadi.simple.json"
+        },
+        {
+            "language": "English",
+            "name": "Abdul_Haleem",
+            "file_name": "Abdul_Haleem.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/Abdul_Haleem.simple.json"
+        },
+        {
+            "language": "English",
+            "name": "Tafheem-ul-Quran_-_Abul_Ala_Maududi",
+            "file_name": "Tafheem-ul-Quran_-_Abul_Ala_Maududi.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/English/Tafheem-ul-Quran_-_Abul_Ala_Maududi.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "English",
+            "name": "Professor_Shaykh_Hasan_Al-Fatih_Qaribullah",
+            "file_name": "Professor_Shaykh_Hasan_Al-Fatih_Qaribullah.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/Professor_Shaykh_Hasan_Al-Fatih_Qaribullah.simple.json"
+        },
+        {
+            "language": "English",
+            "name": "English_Translation_(Pickthall)",
+            "file_name": "English_Translation_(Pickthall).simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/English_Translation_(Pickthall).simple.json"
+        },
+        {
+            "language": "English",
+            "name": "Abdul_Haleem",
+            "file_name": "Abdul_Haleem.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/English/Abdul_Haleem.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "English",
+            "name": "Saheeh_International",
+            "file_name": "Saheeh_International.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/Saheeh_International.simple.json"
+        },
+        {
+            "language": "English",
+            "name": "Abdullah_Yusuf_Ali",
+            "file_name": "Abdullah_Yusuf_Ali.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/English/Abdullah_Yusuf_Ali.simple.json"
+        }
+    ],
+    "Spanish": [
+        {
+            "language": "Spanish",
+            "name": "Noor_International_Center",
+            "file_name": "Noor_International_Center.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Spanish/Noor_International_Center.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "Spanish",
+            "name": "Sheikh_Isa_Garcia",
+            "file_name": "Sheikh_Isa_Garcia.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Spanish/Sheikh_Isa_Garcia.simple.json"
+        },
+        {
+            "language": "Spanish",
+            "name": "Montada_Islamic_Foundation",
+            "file_name": "Montada_Islamic_Foundation.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Spanish/Montada_Islamic_Foundation.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "Spanish",
+            "name": "Noor_International_Center",
+            "file_name": "Noor_International_Center.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Spanish/Noor_International_Center.simple.json"
+        },
+        {
+            "language": "Spanish",
+            "name": "Montada_Islamic_Foundation",
+            "file_name": "Montada_Islamic_Foundation.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Spanish/Montada_Islamic_Foundation.simple.json"
+        },
+        {
+            "language": "Spanish",
+            "name": "Spanish_Translation(Cortes)",
+            "file_name": "Spanish_Translation(Cortes).simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Spanish/Spanish_Translation(Cortes).simple.json"
+        }
+    ],
+    "Divehi": [
+        {
+            "language": "Divehi",
+            "name": "Office_of_the_president_of_Maldives",
+            "file_name": "Office_of_the_president_of_Maldives.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Divehi/Office_of_the_president_of_Maldives.simple.json"
+        }
+    ],
+    "Uighur": [
+        {
+            "language": "Uighur",
+            "name": "Muhammad_Saleh",
+            "file_name": "Muhammad_Saleh.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Uighur/Muhammad_Saleh.simple.json"
+        }
+    ],
+    "Somali": [
+        {
+            "language": "Somali",
+            "name": "Mahmud_Muhammad_Abduh",
+            "file_name": "Mahmud_Muhammad_Abduh.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Somali/Mahmud_Muhammad_Abduh.simple.json"
+        },
+        {
+            "language": "Somali",
+            "name": "Abdullah_Hassan_Yacoub",
+            "file_name": "Abdullah_Hassan_Yacoub.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Somali/Abdullah_Hassan_Yacoub.simple.json"
+        },
+        {
+            "language": "Somali",
+            "name": "Abdullah_Hassan_Yacoub",
+            "file_name": "Abdullah_Hassan_Yacoub.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Somali/Abdullah_Hassan_Yacoub.translation-with-footnote-tags.json"
+        }
+    ],
+    "Italian": [
+        {
+            "language": "Italian",
+            "name": "Hamza_Roberto_Piccardo",
+            "file_name": "Hamza_Roberto_Piccardo.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Italian/Hamza_Roberto_Piccardo.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "Italian",
+            "name": "Hamza_Roberto_Piccardo",
+            "file_name": "Hamza_Roberto_Piccardo.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Italian/Hamza_Roberto_Piccardo.simple.json"
+        },
+        {
+            "language": "Italian",
+            "name": "Othman_al-Sharif",
+            "file_name": "Othman_al-Sharif.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Italian/Othman_al-Sharif.simple.json"
+        }
+    ],
+    "Serbian": [
+        {
+            "language": "Serbian",
+            "name": "Dar_Al-Salam_Center",
+            "file_name": "Dar_Al-Salam_Center.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Serbian/Dar_Al-Salam_Center.simple.json"
+        }
+    ],
+    "Kazakh": [
+        {
+            "language": "Kazakh",
+            "name": "Khalifa_Altay",
+            "file_name": "Khalifa_Altay.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Kazakh/Khalifa_Altay.simple.json"
+        }
+    ],
+    "Amazigh": [
+        {
+            "language": "Amazigh",
+            "name": "Ramdane_At_Mansour",
+            "file_name": "Ramdane_At_Mansour.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Amazigh/Ramdane_At_Mansour.simple.json"
+        }
+    ],
+    "Marathi": [
+        {
+            "language": "Marathi",
+            "name": "Muhammad_Shafi’i_Ansari",
+            "file_name": "Muhammad_Shafi’i_Ansari.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Marathi/Muhammad_Shafi’i_Ansari.simple.json"
+        }
+    ],
+    "Telugu": [
+        {
+            "language": "Telugu",
+            "name": "Maulana_Abder-Rahim_ibn_Muhammad",
+            "file_name": "Maulana_Abder-Rahim_ibn_Muhammad.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Telugu/Maulana_Abder-Rahim_ibn_Muhammad.simple.json"
+        }
+    ],
+    "Ukrainian": [
+        {
+            "language": "Ukrainian",
+            "name": "Dr._Mikhailo_Yaqubovic",
+            "file_name": "Dr._Mikhailo_Yaqubovic.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Ukrainian/Dr._Mikhailo_Yaqubovic.simple.json"
+        }
+    ],
+    "Hindi": [
+        {
+            "language": "Hindi",
+            "name": "Maulana_Azizul_Haque_al-Umari",
+            "file_name": "Maulana_Azizul_Haque_al-Umari.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Hindi/Maulana_Azizul_Haque_al-Umari.simple.json"
+        },
+        {
+            "language": "Hindi",
+            "name": "Maulana_Azizul_Haque_al-Umari",
+            "file_name": "Maulana_Azizul_Haque_al-Umari.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Hindi/Maulana_Azizul_Haque_al-Umari.translation-with-footnote-tags.json"
+        }
+    ],
+    "Chinese": [
+        {
+            "language": "Chinese",
+            "name": "Chinese_Translation_(Simplified)_-_Ma_Jain",
+            "file_name": "Chinese_Translation_(Simplified)_-_Ma_Jain.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Chinese/Chinese_Translation_(Simplified)_-_Ma_Jain.simple.json"
+        },
+        {
+            "language": "Chinese",
+            "name": "Muhammad_Makin",
+            "file_name": "Muhammad_Makin.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Chinese/Muhammad_Makin.simple.json"
+        }
+    ],
+    "Maltese": [
+        {
+            "language": "Maltese",
+            "name": "Il-Qoran_Imqaddes",
+            "file_name": "Il-Qoran_Imqaddes.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Maltese/Il-Qoran_Imqaddes.simple.json"
+        }
+    ],
+    "Kurdish": [
+        {
+            "language": "Kurdish",
+            "name": "Muhammad_Saleh_Bamoki",
+            "file_name": "Muhammad_Saleh_Bamoki.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Kurdish/Muhammad_Saleh_Bamoki.simple.json"
+        },
+        {
+            "language": "Kurdish",
+            "name": "Burhan_Muhammad-Amin",
+            "file_name": "Burhan_Muhammad-Amin.simple.json",
+            "score": 99.98,
+            "type": "simple",
+            "full_path": "Simple/Kurdish/Burhan_Muhammad-Amin.simple.json"
+        }
+    ],
+    "Gujarati": [
+        {
+            "language": "Gujarati",
+            "name": "Rabila_Al-Umry",
+            "file_name": "Rabila_Al-Umry.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Gujarati/Rabila_Al-Umry.simple.json"
+        }
+    ],
+    "Sindhi": [
+        {
+            "language": "Sindhi",
+            "name": "Taj_Mehmood_Amroti",
+            "file_name": "Taj_Mehmood_Amroti.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Sindhi/Taj_Mehmood_Amroti.simple.json"
+        }
+    ],
+    "Asante": [
+        {
+            "language": "Asante",
+            "name": "Sheikh_Haroun_Ismaeel",
+            "file_name": "Sheikh_Haroun_Ismaeel.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Asante/Sheikh_Haroun_Ismaeel.simple.json"
+        }
+    ],
+    "Yoruba": [
+        {
+            "language": "Yoruba",
+            "name": "Shaykh_Abu_Rahimah_Mikael_Aykyuni",
+            "file_name": "Shaykh_Abu_Rahimah_Mikael_Aykyuni.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Yoruba/Shaykh_Abu_Rahimah_Mikael_Aykyuni.simple.json"
+        },
+        {
+            "language": "Yoruba",
+            "name": "Shaykh_Abu_Rahimah_Mikael_Aykyuni",
+            "file_name": "Shaykh_Abu_Rahimah_Mikael_Aykyuni.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Yoruba/Shaykh_Abu_Rahimah_Mikael_Aykyuni.translation-with-footnote-tags.json"
+        }
+    ],
+    "Lithuanian": [
+        {
+            "language": "Lithuanian",
+            "name": "Lithuanian_Translation",
+            "file_name": "Lithuanian_Translation.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Lithuanian/Lithuanian_Translation.simple.json"
+        },
+        {
+            "language": "Lithuanian",
+            "name": "Lithuanian_Translation",
+            "file_name": "Lithuanian_Translation.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Lithuanian/Lithuanian_Translation.translation-with-footnote-tags.json"
+        }
+    ],
+    "Portuguese": [
+        {
+            "language": "Portuguese",
+            "name": "Helmi_Nasr",
+            "file_name": "Helmi_Nasr.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Portuguese/Helmi_Nasr.simple.json"
+        },
+        {
+            "language": "Portuguese",
+            "name": "Portuguese_Translation(_Samir_)",
+            "file_name": "Portuguese_Translation(_Samir_).simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Portuguese/Portuguese_Translation(_Samir_).simple.json"
+        }
+    ],
+    "German": [
+        {
+            "language": "German",
+            "name": "Frank_Bubenheim_and_Nadeem",
+            "file_name": "Frank_Bubenheim_and_Nadeem.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/German/Frank_Bubenheim_and_Nadeem.simple.json"
+        },
+        {
+            "language": "German",
+            "name": "Abu_Reda_Muhammad_ibn_Ahmad",
+            "file_name": "Abu_Reda_Muhammad_ibn_Ahmad.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/German/Abu_Reda_Muhammad_ibn_Ahmad.simple.json"
+        }
+    ],
+    "Bambara": [
+        {
+            "language": "Bambara",
+            "name": "Suliman_Kanti",
+            "file_name": "Suliman_Kanti.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Bambara/Suliman_Kanti.simple.json"
+        },
+        {
+            "language": "Bambara",
+            "name": "Baba_Mamady_Jani",
+            "file_name": "Baba_Mamady_Jani.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Bambara/Baba_Mamady_Jani.simple.json"
+        }
+    ],
+    "Malayalam": [
+        {
+            "language": "Malayalam",
+            "name": "Muhammad_Karakunnu_and_Vanidas_Elayavoor",
+            "file_name": "Muhammad_Karakunnu_and_Vanidas_Elayavoor.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Malayalam/Muhammad_Karakunnu_and_Vanidas_Elayavoor.simple.json"
+        },
+        {
+            "language": "Malayalam",
+            "name": "Malay_Translation(Abdul_Hameed_and_Kunhi)",
+            "file_name": "Malay_Translation(Abdul_Hameed_and_Kunhi).simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Malayalam/Malay_Translation(Abdul_Hameed_and_Kunhi).simple.json"
+        },
+        {
+            "language": "Malayalam",
+            "name": "Abdul-Hamid_Haidar_&_Kanhi_Muhammad",
+            "file_name": "Abdul-Hamid_Haidar_&_Kanhi_Muhammad.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Malayalam/Abdul-Hamid_Haidar_&_Kanhi_Muhammad.simple.json"
+        }
+    ],
+    "French": [
+        {
+            "language": "French",
+            "name": "Rashid_Maash",
+            "file_name": "Rashid_Maash.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/French/Rashid_Maash.simple.json"
+        },
+        {
+            "language": "French",
+            "name": "Montada_Islamic_Foundation",
+            "file_name": "Montada_Islamic_Foundation.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/French/Montada_Islamic_Foundation.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "French",
+            "name": "Rashid_Maash",
+            "file_name": "Rashid_Maash.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/French/Rashid_Maash.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "French",
+            "name": "Montada_Islamic_Foundation",
+            "file_name": "Montada_Islamic_Foundation.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/French/Montada_Islamic_Foundation.simple.json"
+        },
+        {
+            "language": "French",
+            "name": "Muhammad_Hamidullah",
+            "file_name": "Muhammad_Hamidullah.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/French/Muhammad_Hamidullah.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "French",
+            "name": "Muhammad_Hamidullah",
+            "file_name": "Muhammad_Hamidullah.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/French/Muhammad_Hamidullah.simple.json"
+        }
+    ],
+    "Nepali": [
+        {
+            "language": "Nepali",
+            "name": "Ahl_Al-Hadith_Central_Society_of_Nepal",
+            "file_name": "Ahl_Al-Hadith_Central_Society_of_Nepal.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Nepali/Ahl_Al-Hadith_Central_Society_of_Nepal.simple.json"
+        }
+    ],
+    "Ganda": [
+        {
+            "language": "Ganda",
+            "name": "African_Development_Foundation",
+            "file_name": "African_Development_Foundation.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Ganda/African_Development_Foundation.simple.json"
+        }
+    ],
+    "Assamese": [
+        {
+            "language": "Assamese",
+            "name": "Shaykh_Rafeequl_Islam_Habibur-Rahman",
+            "file_name": "Shaykh_Rafeequl_Islam_Habibur-Rahman.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Assamese/Shaykh_Rafeequl_Islam_Habibur-Rahman.simple.json"
+        },
+        {
+            "language": "Assamese",
+            "name": "Shaykh_Rafeequl_Islam_Habibur-Rahman",
+            "file_name": "Shaykh_Rafeequl_Islam_Habibur-Rahman.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Assamese/Shaykh_Rafeequl_Islam_Habibur-Rahman.translation-with-footnote-tags.json"
+        }
+    ],
+    "Chechen": [
+        {
+            "language": "Chechen",
+            "name": "Magomed_Magomedov",
+            "file_name": "Magomed_Magomedov.translation-with-footnote-tags.json",
+            "score": 96.7,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Chechen/Magomed_Magomedov.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "Chechen",
+            "name": "Magomed_Magomedov",
+            "file_name": "Magomed_Magomedov.simple.json",
+            "score": 96.7,
+            "type": "simple",
+            "full_path": "Simple/Chechen/Magomed_Magomedov.simple.json"
+        }
+    ],
+    "Polish": [
+        {
+            "language": "Polish",
+            "name": "Józef_Bielawski",
+            "file_name": "Józef_Bielawski.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Polish/Józef_Bielawski.simple.json"
+        }
+    ],
+    "Tajik": [
+        {
+            "language": "Tajik",
+            "name": "Pioneers_of_Translation_Center",
+            "file_name": "Pioneers_of_Translation_Center.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Tajik/Pioneers_of_Translation_Center.simple.json"
+        },
+        {
+            "language": "Tajik",
+            "name": "Khawaja_Mirof_&_Khawaja_Mir",
+            "file_name": "Khawaja_Mirof_&_Khawaja_Mir.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Tajik/Khawaja_Mirof_&_Khawaja_Mir.simple.json"
+        },
+        {
+            "language": "Tajik",
+            "name": "Tajik",
+            "file_name": "Tajik.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Tajik/Tajik.simple.json"
+        },
+        {
+            "language": "Tajik",
+            "name": "Khawaja_Mirof_&_Khawaja_Mir",
+            "file_name": "Khawaja_Mirof_&_Khawaja_Mir.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Tajik/Khawaja_Mirof_&_Khawaja_Mir.translation-with-footnote-tags.json"
+        }
+    ],
+    "Kinyarwanda": [
+        {
+            "language": "Kinyarwanda",
+            "name": "The_Rwanda_Muslims_Association_team",
+            "file_name": "The_Rwanda_Muslims_Association_team.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Kinyarwanda/The_Rwanda_Muslims_Association_team.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "Kinyarwanda",
+            "name": "Ikirundi_gehiti",
+            "file_name": "Ikirundi_gehiti.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Kinyarwanda/Ikirundi_gehiti.simple.json"
+        },
+        {
+            "language": "Kinyarwanda",
+            "name": "The_Rwanda_Muslims_Association_team",
+            "file_name": "The_Rwanda_Muslims_Association_team.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Kinyarwanda/The_Rwanda_Muslims_Association_team.simple.json"
+        }
+    ],
+    "Urdu": [
+        {
+            "language": "Urdu",
+            "name": "Shaykh_al-Hind_Mahmud_al-Hasan(with_Tafsir_E_Usmani)",
+            "file_name": "Shaykh_al-Hind_Mahmud_al-Hasan(with_Tafsir_E_Usmani).simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Urdu/Shaykh_al-Hind_Mahmud_al-Hasan(with_Tafsir_E_Usmani).simple.json"
+        },
+        {
+            "language": "Urdu",
+            "name": "Tafheem_e_Qur'an_-_Syed_Abu_Ali_Maududi",
+            "file_name": "Tafheem_e_Qur'an_-_Syed_Abu_Ali_Maududi.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Urdu/Tafheem_e_Qur'an_-_Syed_Abu_Ali_Maududi.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "Urdu",
+            "name": "bayan-ul-quran",
+            "file_name": "bayan-ul-quran.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Urdu/bayan-ul-quran.simple.json"
+        },
+        {
+            "language": "Urdu",
+            "name": "Maulana_Muhammad_Junagarhi",
+            "file_name": "Maulana_Muhammad_Junagarhi.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Urdu/Maulana_Muhammad_Junagarhi.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "Urdu",
+            "name": "Maulana_Wahiduddin_Khan",
+            "file_name": "Maulana_Wahiduddin_Khan.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Urdu/Maulana_Wahiduddin_Khan.simple.json"
+        },
+        {
+            "language": "Urdu",
+            "name": "Fe_Zilal_al-Qur'an",
+            "file_name": "Fe_Zilal_al-Qur'an.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Urdu/Fe_Zilal_al-Qur'an.simple.json"
+        },
+        {
+            "language": "Urdu",
+            "name": "Maulana_Muhammad_Junagarhi",
+            "file_name": "Maulana_Muhammad_Junagarhi.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Urdu/Maulana_Muhammad_Junagarhi.simple.json"
+        },
+        {
+            "language": "Urdu",
+            "name": "Fatah_Muhammad_Jalandhari",
+            "file_name": "Fatah_Muhammad_Jalandhari.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Urdu/Fatah_Muhammad_Jalandhari.simple.json"
+        },
+        {
+            "language": "Urdu",
+            "name": "Shaykh_al-Hind_Mahmud_al-Hasan(with_Tafsir_E_Usmani)",
+            "file_name": "Shaykh_al-Hind_Mahmud_al-Hasan(with_Tafsir_E_Usmani).translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Urdu/Shaykh_al-Hind_Mahmud_al-Hasan(with_Tafsir_E_Usmani).translation-with-footnote-tags.json"
+        },
+        {
+            "language": "Urdu",
+            "name": "Abul_Ala_Maududi(Roman_Urdu)",
+            "file_name": "Abul_Ala_Maududi(Roman_Urdu).simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Urdu/Abul_Ala_Maududi(Roman_Urdu).simple.json"
+        },
+        {
+            "language": "Urdu",
+            "name": "Tafheem_e_Qur'an_-_Syed_Abu_Ali_Maududi",
+            "file_name": "Tafheem_e_Qur'an_-_Syed_Abu_Ali_Maududi.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Urdu/Tafheem_e_Qur'an_-_Syed_Abu_Ali_Maududi.simple.json"
+        }
+    ],
+    "Central_khmer": [
+        {
+            "language": "Central_khmer",
+            "name": "Cambodian_Muslim_Community_Development",
+            "file_name": "Cambodian_Muslim_Community_Development.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Central_khmer/Cambodian_Muslim_Community_Development.simple.json"
+        }
+    ],
+    "Romanian": [
+        {
+            "language": "Romanian",
+            "name": "Grigore",
+            "file_name": "Grigore.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Romanian/Grigore.simple.json"
+        },
+        {
+            "language": "Romanian",
+            "name": "Islamic_and_Cultural_League",
+            "file_name": "Islamic_and_Cultural_League.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Romanian/Islamic_and_Cultural_League.simple.json"
+        },
+        {
+            "language": "Romanian",
+            "name": "Islamic_and_Cultural_League",
+            "file_name": "Islamic_and_Cultural_League.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Romanian/Islamic_and_Cultural_League.translation-with-footnote-tags.json"
+        }
+    ],
+    "Swahili": [
+        {
+            "language": "Swahili",
+            "name": "Ali_Muhsin_Al-Barwani",
+            "file_name": "Ali_Muhsin_Al-Barwani.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Swahili/Ali_Muhsin_Al-Barwani.simple.json"
+        },
+        {
+            "language": "Swahili",
+            "name": "Dr._Abdullah_Muhammad_Abu_Bakr_and_Sheikh_Nasir_Khamis",
+            "file_name": "Dr._Abdullah_Muhammad_Abu_Bakr_and_Sheikh_Nasir_Khamis.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Swahili/Dr._Abdullah_Muhammad_Abu_Bakr_and_Sheikh_Nasir_Khamis.simple.json"
+        }
+    ],
+    "Hausa": [
+        {
+            "language": "Hausa",
+            "name": "Hausa_Translation(Abubakar_Gumi)",
+            "file_name": "Hausa_Translation(Abubakar_Gumi).simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Hausa/Hausa_Translation(Abubakar_Gumi).simple.json"
+        },
+        {
+            "language": "Hausa",
+            "name": "Abubakar_Mahmood_Jummi",
+            "file_name": "Abubakar_Mahmood_Jummi.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Hausa/Abubakar_Mahmood_Jummi.simple.json"
+        },
+        {
+            "language": "Hausa",
+            "name": "Abubakar_Mahmood_Jummi",
+            "file_name": "Abubakar_Mahmood_Jummi.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Hausa/Abubakar_Mahmood_Jummi.translation-with-footnote-tags.json"
+        }
+    ],
+    "Japanese": [
+        {
+            "language": "Japanese",
+            "name": "Ryoichi_Mita",
+            "file_name": "Ryoichi_Mita.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Japanese/Ryoichi_Mita.simple.json"
+        },
+        {
+            "language": "Japanese",
+            "name": "Saeed_Sato",
+            "file_name": "Saeed_Sato.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Japanese/Saeed_Sato.simple.json"
+        }
+    ],
+    "Vietnamese": [
+        {
+            "language": "Vietnamese",
+            "name": "Hasan_Abdul-Karim",
+            "file_name": "Hasan_Abdul-Karim.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Vietnamese/Hasan_Abdul-Karim.simple.json"
+        },
+        {
+            "language": "Vietnamese",
+            "name": "Ruwwad_Center",
+            "file_name": "Ruwwad_Center.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Vietnamese/Ruwwad_Center.simple.json"
+        },
+        {
+            "language": "Vietnamese",
+            "name": "Ruwwad_Center",
+            "file_name": "Ruwwad_Center.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Vietnamese/Ruwwad_Center.translation-with-footnote-tags.json"
+        }
+    ],
+    "Tatar": [
+        {
+            "language": "Tatar",
+            "name": "Tatar",
+            "file_name": "Tatar.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Tatar/Tatar.simple.json"
+        }
+    ],
+    "Hebrew": [
+        {
+            "language": "Hebrew",
+            "name": "Dar_Al-Salam_Center",
+            "file_name": "Dar_Al-Salam_Center.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Hebrew/Dar_Al-Salam_Center.simple.json"
+        }
+    ],
+    "Turkish": [
+        {
+            "language": "Turkish",
+            "name": "Elmalili_Hamdi_Yazir",
+            "file_name": "Elmalili_Hamdi_Yazir.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Turkish/Elmalili_Hamdi_Yazir.simple.json"
+        },
+        {
+            "language": "Turkish",
+            "name": "Muslim_Shahin",
+            "file_name": "Muslim_Shahin.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Turkish/Muslim_Shahin.simple.json"
+        },
+        {
+            "language": "Turkish",
+            "name": "Turkish_Translation(Diyanet)",
+            "file_name": "Turkish_Translation(Diyanet).simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Turkish/Turkish_Translation(Diyanet).simple.json"
+        },
+        {
+            "language": "Turkish",
+            "name": "Shaban_Britch",
+            "file_name": "Shaban_Britch.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Turkish/Shaban_Britch.simple.json"
+        },
+        {
+            "language": "Turkish",
+            "name": "Dar_Al-Salam_Center",
+            "file_name": "Dar_Al-Salam_Center.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Turkish/Dar_Al-Salam_Center.simple.json"
+        }
+    ],
+    "Yau": [
+        {
+            "language": "Yau",
+            "name": "Abdul_Hamid_Silika",
+            "file_name": "Abdul_Hamid_Silika.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Yau/Abdul_Hamid_Silika.simple.json"
+        },
+        {
+            "language": "Yau",
+            "name": "Abdul_Hamid_Silika",
+            "file_name": "Abdul_Hamid_Silika.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Yau/Abdul_Hamid_Silika.translation-with-footnote-tags.json"
+        }
+    ],
+    "Russian": [
+        {
+            "language": "Russian",
+            "name": "Magomed-Nuri_Osmanovich_Osmanov",
+            "file_name": "Magomed-Nuri_Osmanovich_Osmanov.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Russian/Magomed-Nuri_Osmanovich_Osmanov.simple.json"
+        },
+        {
+            "language": "Russian",
+            "name": "Russian_Translation_(_Elmir_Kuliev_)",
+            "file_name": "Russian_Translation_(_Elmir_Kuliev_).simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Russian/Russian_Translation_(_Elmir_Kuliev_).simple.json"
+        },
+        {
+            "language": "Russian",
+            "name": "Abu_Adel",
+            "file_name": "Abu_Adel.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Russian/Abu_Adel.simple.json"
+        },
+        {
+            "language": "Russian",
+            "name": "Ministry_of_Awqaf,_Egypt",
+            "file_name": "Ministry_of_Awqaf,_Egypt.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Russian/Ministry_of_Awqaf,_Egypt.simple.json"
+        },
+        {
+            "language": "Russian",
+            "name": "Gordy_Semyonovich_Sablukov",
+            "file_name": "Gordy_Semyonovich_Sablukov.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Russian/Gordy_Semyonovich_Sablukov.simple.json"
+        }
+    ],
+    "Czech": [
+        {
+            "language": "Czech",
+            "name": "Czech",
+            "file_name": "Czech.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Czech/Czech.simple.json"
+        }
+    ],
+    "Thai": [
+        {
+            "language": "Thai",
+            "name": "Society_of_Institutes_and_Universities",
+            "file_name": "Society_of_Institutes_and_Universities.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Thai/Society_of_Institutes_and_Universities.simple.json"
+        },
+        {
+            "language": "Thai",
+            "name": "Thai_Translatio_(King_Fahad_Quran_Complex)",
+            "file_name": "Thai_Translatio_(King_Fahad_Quran_Complex).simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Thai/Thai_Translatio_(King_Fahad_Quran_Complex).simple.json"
+        }
+    ],
+    "Azeri": [
+        {
+            "language": "Azeri",
+            "name": "Azerbaijani",
+            "file_name": "Azerbaijani.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Azeri/Azerbaijani.simple.json"
+        },
+        {
+            "language": "Azeri",
+            "name": "Alikhan_Musayev",
+            "file_name": "Alikhan_Musayev.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Azeri/Alikhan_Musayev.simple.json"
+        }
+    ],
+    "Finnish": [
+        {
+            "language": "Finnish",
+            "name": "Finnish",
+            "file_name": "Finnish.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Finnish/Finnish.simple.json"
+        }
+    ],
+    "Kannada": [
+        {
+            "language": "Kannada",
+            "name": "Kannada_Translation",
+            "file_name": "Kannada_Translation.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Kannada/Kannada_Translation.simple.json"
+        },
+        {
+            "language": "Kannada",
+            "name": "Kannada_Translation",
+            "file_name": "Kannada_Translation.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Kannada/Kannada_Translation.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "Kannada",
+            "name": "Sheikh_Isa_Garcia",
+            "file_name": "Sheikh_Isa_Garcia.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Kannada/Sheikh_Isa_Garcia.translation-with-footnote-tags.json"
+        }
+    ],
+    "Tagalog": [
+        {
+            "language": "Tagalog",
+            "name": "Dar_Al-Salam_Center",
+            "file_name": "Dar_Al-Salam_Center.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Tagalog/Dar_Al-Salam_Center.simple.json"
+        }
+    ],
+    "Norwegian": [
+        {
+            "language": "Norwegian",
+            "name": "Norwegian",
+            "file_name": "Norwegian.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Norwegian/Norwegian.simple.json"
+        }
+    ],
+    "Korean": [
+        {
+            "language": "Korean",
+            "name": "Korean",
+            "file_name": "Korean.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Korean/Korean.simple.json"
+        },
+        {
+            "language": "Korean",
+            "name": "Hamed_Choi",
+            "file_name": "Hamed_Choi.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Korean/Hamed_Choi.simple.json"
+        }
+    ],
+    "Uzbek": [
+        {
+            "language": "Uzbek",
+            "name": "Muhammad_Sodiq_Muhammad_Yusuf_(Latin)_",
+            "file_name": "Muhammad_Sodiq_Muhammad_Yusuf_(Latin)_.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Uzbek/Muhammad_Sodiq_Muhammad_Yusuf_(Latin)_.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "Uzbek",
+            "name": "Muhammad_Sodik_Muhammad_Yusuf",
+            "file_name": "Muhammad_Sodik_Muhammad_Yusuf.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Uzbek/Muhammad_Sodik_Muhammad_Yusuf.simple.json"
+        },
+        {
+            "language": "Uzbek",
+            "name": "Alauddin_Mansour",
+            "file_name": "Alauddin_Mansour.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Uzbek/Alauddin_Mansour.simple.json"
+        },
+        {
+            "language": "Uzbek",
+            "name": "Muhammad_Sodiq_Muhammad_Yusuf_(Latin)_",
+            "file_name": "Muhammad_Sodiq_Muhammad_Yusuf_(Latin)_.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Uzbek/Muhammad_Sodiq_Muhammad_Yusuf_(Latin)_.simple.json"
+        },
+        {
+            "language": "Uzbek",
+            "name": "Muhammad_Sodik_Muhammad_Yusuf",
+            "file_name": "Muhammad_Sodik_Muhammad_Yusuf.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Uzbek/Muhammad_Sodik_Muhammad_Yusuf.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "Uzbek",
+            "name": "Alauddin_Mansour",
+            "file_name": "Alauddin_Mansour.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Uzbek/Alauddin_Mansour.translation-with-footnote-tags.json"
+        }
+    ],
+    "Oromo": [
+        {
+            "language": "Oromo",
+            "name": "Ghali_Apapur_Apaghuna",
+            "file_name": "Ghali_Apapur_Apaghuna.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Oromo/Ghali_Apapur_Apaghuna.simple.json"
+        }
+    ],
+    "Pashto": [
+        {
+            "language": "Pashto",
+            "name": "Pashto_Translation_-_Rowwad_Translation_Center",
+            "file_name": "Pashto_Translation_-_Rowwad_Translation_Center.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Pashto/Pashto_Translation_-_Rowwad_Translation_Center.simple.json"
+        },
+        {
+            "language": "Pashto",
+            "name": "Zakaria_Abulsalam",
+            "file_name": "Zakaria_Abulsalam.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Pashto/Zakaria_Abulsalam.simple.json"
+        }
+    ],
+    "Sinhala": [
+        {
+            "language": "Sinhala",
+            "name": "Ruwwad_Center",
+            "file_name": "Ruwwad_Center.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Sinhala/Ruwwad_Center.simple.json"
+        }
+    ],
+    "Indonesian": [
+        {
+            "language": "Indonesian",
+            "name": "King_Fahad_Quran_Complex",
+            "file_name": "King_Fahad_Quran_Complex.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Indonesian/King_Fahad_Quran_Complex.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "Indonesian",
+            "name": "The_Sabiq_company",
+            "file_name": "The_Sabiq_company.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Indonesian/The_Sabiq_company.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "Indonesian",
+            "name": "King_Fahad_Quran_Complex",
+            "file_name": "King_Fahad_Quran_Complex.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Indonesian/King_Fahad_Quran_Complex.simple.json"
+        },
+        {
+            "language": "Indonesian",
+            "name": "Indonesian_Islamic_affairs_ministry",
+            "file_name": "Indonesian_Islamic_affairs_ministry.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Indonesian/Indonesian_Islamic_affairs_ministry.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "Indonesian",
+            "name": "The_Sabiq_company_(1)",
+            "file_name": "The_Sabiq_company.simple_(1).json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Indonesian/The_Sabiq_company.simple_(1).json"
+        },
+        {
+            "language": "Indonesian",
+            "name": "The_Sabiq_company",
+            "file_name": "The_Sabiq_company.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Indonesian/The_Sabiq_company.simple.json"
+        },
+        {
+            "language": "Indonesian",
+            "name": "Indonesian_Islamic_affairs_ministry",
+            "file_name": "Indonesian_Islamic_affairs_ministry.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Indonesian/Indonesian_Islamic_affairs_ministry.simple.json"
+        }
+    ],
+    "Dutch": [
+        {
+            "language": "Dutch",
+            "name": "Sofian_S._Siregar",
+            "file_name": "Sofian_S._Siregar.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Dutch/Sofian_S._Siregar.simple.json"
+        }
+    ],
+    "Albanian": [
+        {
+            "language": "Albanian",
+            "name": "Albanian_Translation",
+            "file_name": "Albanian_Translation.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Albanian/Albanian_Translation.simple.json"
+        },
+        {
+            "language": "Albanian",
+            "name": "Ruwwad_Center",
+            "file_name": "Ruwwad_Center.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Albanian/Ruwwad_Center.simple.json"
+        },
+        {
+            "language": "Albanian",
+            "name": "Hasan_Efendi_Nahi",
+            "file_name": "Hasan_Efendi_Nahi.translation-with-footnote-tags.json",
+            "score": 100.0,
+            "type": "translation-with-footnote-tags",
+            "full_path": "Simple/Albanian/Hasan_Efendi_Nahi.translation-with-footnote-tags.json"
+        },
+        {
+            "language": "Albanian",
+            "name": "Hasan_Efendi_Nahi",
+            "file_name": "Hasan_Efendi_Nahi.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Albanian/Hasan_Efendi_Nahi.simple.json"
+        },
+        {
+            "language": "Albanian",
+            "name": "Albanian",
+            "file_name": "Albanian.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Albanian/Albanian.simple.json"
+        }
+    ],
+    "Malay": [
+        {
+            "language": "Malay",
+            "name": "Abdullah_Muhammad_Basmeih",
+            "file_name": "Abdullah_Muhammad_Basmeih.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Malay/Abdullah_Muhammad_Basmeih.simple.json"
+        },
+        {
+            "language": "Malay",
+            "name": "Abdullah_Basamia",
+            "file_name": "Abdullah_Basamia.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Malay/Abdullah_Basamia.simple.json"
+        }
+    ],
+    "Tamil": [
+        {
+            "language": "Tamil",
+            "name": "Abdul_Hameed_Baqavi",
+            "file_name": "Abdul_Hameed_Baqavi.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Tamil/Abdul_Hameed_Baqavi.simple.json"
+        },
+        {
+            "language": "Tamil",
+            "name": "Sheikh_Omar_Sharif_bin_Abdul_Salam",
+            "file_name": "Sheikh_Omar_Sharif_bin_Abdul_Salam.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Tamil/Sheikh_Omar_Sharif_bin_Abdul_Salam.simple.json"
+        },
+        {
+            "language": "Tamil",
+            "name": "Jan_Trust_Foundation",
+            "file_name": "Jan_Trust_Foundation.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Tamil/Jan_Trust_Foundation.simple.json"
+        }
+    ],
+    "Swedish": [
+        {
+            "language": "Swedish",
+            "name": "Knut_Bernström",
+            "file_name": "Knut_Bernström.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Swedish/Knut_Bernström.simple.json"
+        }
+    ],
+    "Maranao": [
+        {
+            "language": "Maranao",
+            "name": "Maranao",
+            "file_name": "Maranao.simple.json",
+            "score": 100.0,
+            "type": "simple",
+            "full_path": "Simple/Maranao/Maranao.simple.json"
+        }
+    ]
+}

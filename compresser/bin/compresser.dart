@@ -6,7 +6,9 @@ import 'package:path/path.dart';
 
 void main(List<String> arguments) async {
   DateTime startTime = DateTime.now();
-  Directory tafsirDir = Directory('../public/quranic_universal_library/tafsir');
+  Directory tafsirDir = Directory(
+    '../public/quranic_universal_library/translation/word_by_word',
+  );
   for (FileSystemEntity lang in tafsirDir.listSync()) {
     Directory languageDir = Directory(lang.path);
     for (FileSystemEntity file in languageDir.listSync()) {
@@ -18,7 +20,7 @@ void main(List<String> arguments) async {
       String compressedBase64String = base64Encode(compressedBytes);
       String savingPath = join(
         tafsirDir.parent.path,
-        "compressed_tafsir",
+        "compressed_translation_word_by_word",
         languageDir.path.split("/").last,
       );
       if (!(await Directory(savingPath).exists())) {
