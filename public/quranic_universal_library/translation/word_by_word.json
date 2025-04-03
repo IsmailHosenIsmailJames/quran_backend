@@ -1,0 +1,82 @@
+{
+    "Persian": [
+        {
+            "language": "Persian",
+            "name": "Persian_wbw_translation",
+            "file_name": "Persian_wbw_translation.json",
+            "score": 100.0,
+            "type": "None",
+            "full_path": "word_by_word/Persian/Persian_wbw_translation.json"
+        }
+    ],
+    "Bengali": [
+        {
+            "language": "Bengali",
+            "name": "Bengali_wbw_translation",
+            "file_name": "Bengali_wbw_translation.json",
+            "score": 100.0,
+            "type": "None",
+            "full_path": "word_by_word/Bengali/Bengali_wbw_translation.json"
+        }
+    ],
+    "English": [
+        {
+            "language": "English",
+            "name": "English_wbw_translation",
+            "file_name": "English_wbw_translation.json",
+            "score": 100.0,
+            "type": "None",
+            "full_path": "word_by_word/English/English_wbw_translation.json"
+        }
+    ],
+    "Hindi": [
+        {
+            "language": "Hindi",
+            "name": "Hindi_wbw_translation",
+            "file_name": "Hindi_wbw_translation.json",
+            "score": 84.29,
+            "type": "None",
+            "full_path": "word_by_word/Hindi/Hindi_wbw_translation.json"
+        }
+    ],
+    "Urdu": [
+        {
+            "language": "Urdu",
+            "name": "Urdu_wbw_translation",
+            "file_name": "Urdu_wbw_translation.json",
+            "score": 100.0,
+            "type": "None",
+            "full_path": "word_by_word/Urdu/Urdu_wbw_translation.json"
+        }
+    ],
+    "Turkish": [
+        {
+            "language": "Turkish",
+            "name": "Turkish_wbw_translation",
+            "file_name": "Turkish_wbw_translation.json",
+            "score": 84.31,
+            "type": "None",
+            "full_path": "word_by_word/Turkish/Turkish_wbw_translation.json"
+        }
+    ],
+    "Indonesian": [
+        {
+            "language": "Indonesian",
+            "name": "Indonesian_wbw_translation",
+            "file_name": "Indonesian_wbw_translation.json",
+            "score": 100.0,
+            "type": "None",
+            "full_path": "word_by_word/Indonesian/Indonesian_wbw_translation.json"
+        }
+    ],
+    "Tamil": [
+        {
+            "language": "Tamil",
+            "name": "Tamil_wbw_translation",
+            "file_name": "Tamil_wbw_translation.json",
+            "score": 73.46,
+            "type": "None",
+            "full_path": "word_by_word/Tamil/Tamil_wbw_translation.json"
+        }
+    ]
+}
