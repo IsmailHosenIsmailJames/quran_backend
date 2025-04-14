@@ -3,11 +3,11 @@ import os
 
 errorAyahs = 0
 score = dict()
-
-for languageFolder in os.listdir('.'):
+base = 'public/quranic_universal_library/tafsir'
+for languageFolder in os.listdir(base):
     if(languageFolder=='score_maker.py'): continue
-    for file in os.listdir(f"./{languageFolder}"):
-        jsonData =dict(json.load(open(f"./{languageFolder}/{file}","r")))
+    for file in os.listdir(os.path.join(base,languageFolder)):
+        jsonData =dict(json.load(open(os.path.join(base,languageFolder,file),"r")))
         totalAyahs = len(jsonData.keys())
         hasTafsir = 0
         for ayahKey in list(jsonData.keys()):
@@ -24,8 +24,6 @@ for languageFolder in os.listdir('.'):
                         jsonData[ayahKey]['ayah_keys'] = lastKey
         
 
-        json.dump(jsonData,open(f"./{languageFolder}/{file}","w", encoding='utf-8'),ensure_ascii=False)             
-        print(f"issue -> {errorAyahs} ( {int((hasTafsir/totalAyahs)*100)}% )  {languageFolder}    \t->\t {file}")
         errorAyahs=0
         if(languageFolder not in score.keys()):
             score[languageFolder] = [
@@ -33,7 +31,8 @@ for languageFolder in os.listdir('.'):
                     "fileName" : file,
                     "totalAyahs" : totalAyahs,
                     "hasTafsir" : hasTafsir,
-                    "score" : int((hasTafsir/totalAyahs)*100)
+                    "score" : int((hasTafsir/totalAyahs)*100),
+                    "full_path" : os.path.join("quranic_universal_library/tafsir",languageFolder,file).replace(" ", "_")
                 }
             ]
         else:
@@ -42,7 +41,9 @@ for languageFolder in os.listdir('.'):
                     "fileName" : file,
                     "totalAyahs" : totalAyahs,
                     "hasTafsir" : hasTafsir,
-                    "score" : int((hasTafsir/totalAyahs)*100)
+                    "score" : int((hasTafsir/totalAyahs)*100),
+                    "full_path" : os.path.join("quranic_universal_library/tafsir",languageFolder,file).replace(" ", "_")
+
                 }
             )
             
