@@ -7,7 +7,7 @@ import 'package:path/path.dart';
 void main(List<String> arguments) async {
   DateTime startTime = DateTime.now();
   Directory tafsirDir = Directory(
-    '../public/quranic_universal_library/translation/wdw_simplifer',
+    '../public/quranic_universal_library/translation/fix_wdw_simplifer',
   );
   for (FileSystemEntity lang in tafsirDir.listSync()) {
     Directory languageDir = Directory(lang.path);
